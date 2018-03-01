@@ -1,0 +1,6346 @@
+{
+  "coins":
+    "$$$": {
+      "btc": 3.3E-7,
+      "name": "Money",
+      "rank": 471,
+      "ticker": "$$$",
+      "usd": 0.003641
+    },
+    "1337": {
+      "btc": 3E-8,
+      "name": "Elite",
+      "rank": 186,
+      "ticker": "1337",
+      "usd": 0.000321
+    },
+    "2give": {
+      "btc": 0.00000114,
+      "name": "2GIVE",
+      "rank": 211,
+      "ticker": "2give",
+      "usd": 0.012577
+    },
+    "42": {
+      "btc": 4.79778429,
+      "name": "42-coin",
+      "rank": 298,
+      "ticker": "42",
+      "usd": 52921.0
+    },
+    "611": {
+      "btc": 0.00006519,
+      "name": "SixEleven",
+      "rank": 444,
+      "ticker": "611",
+      "usd": 0.719116
+    },
+    "808": {
+      "btc": 1E-8,
+      "name": "808Coin",
+      "rank": 411,
+      "ticker": "808",
+      "usd": 0.000113
+    },
+    "888": {
+      "btc": 7.7E-7,
+      "name": "OctoCoin",
+      "rank": 410,
+      "ticker": "888",
+      "usd": 0.008509
+    },
+    "8bit": {
+      "btc": 0.00002805,
+      "name": "8Bit",
+      "rank": 562,
+      "ticker": "8bit",
+      "usd": 0.30935
+    },
+    "abj": {
+      "btc": 0.00001600,
+      "name": "Abjcoin",
+      "rank": 326,
+      "ticker": "abj",
+      "usd": 0.176532
+    },
+    "abn": {
+      "btc": 0.00000389,
+      "name": "Abncoin",
+      "rank": 504,
+      "ticker": "abn",
+      "usd": 0.042919
+    },
+    "aby": {
+      "btc": 0.00000109,
+      "name": "ArtByte",
+      "rank": 181,
+      "ticker": "aby",
+      "usd": 0.012036
+    },
+    "ac": {
+      "btc": 5.3E-7,
+      "name": "AsiaCoin",
+      "rank": 507,
+      "ticker": "ac",
+      "usd": 0.005848
+    },
+    "acc": {
+      "btc": 0.00009000,
+      "name": "ACChain",
+      "rank": 758,
+      "ticker": "acc",
+      "usd": 0.992724
+    },
+    "aces": {
+      "btc": 8E-8,
+      "name": "Aces",
+      "rank": 801,
+      "ticker": "aces",
+      "usd": 0.000842
+    },
+    "acn": {
+      "btc": 9E-8,
+      "name": "Avoncoin",
+      "rank": 844,
+      "ticker": "acn",
+      "usd": 0.000993
+    },
+    "acoin": {
+      "btc": 0.00001609,
+      "name": "Acoin",
+      "rank": 598,
+      "ticker": "acoin",
+      "usd": 0.177465
+    },
+    "acp": {
+      "btc": 0.00000118,
+      "name": "AnarchistsPrime",
+      "rank": 663,
+      "ticker": "acp",
+      "usd": 0.012984
+    },
+    "act": {
+      "btc": 0.00003527,
+      "name": "Achain",
+      "rank": 59,
+      "ticker": "act",
+      "usd": 0.388995
+    },
+    "ada": {
+      "btc": 0.00002816,
+      "name": "Cardano",
+      "rank": 7,
+      "ticker": "ada",
+      "usd": 0.310592
+    },
+    "adc": {
+      "btc": 5.7E-7,
+      "name": "AudioCoin",
+      "rank": 226,
+      "ticker": "adc",
+      "usd": 0.006328
+    },
+    "adcn": {
+      "btc": 7.3E-7,
+      "name": "Asiadigicoin",
+      "rank": 603,
+      "ticker": "adcn",
+      "usd": 0.008054
+    },
+    "adk": {
+      "btc": 0.00500077,
+      "name": "Aidos Kuneen",
+      "rank": 728,
+      "ticker": "adk",
+      "usd": 55.16
+    },
+    "adz": {
+      "btc": 0.00000655,
+      "name": "Adzcoin",
+      "rank": 280,
+      "ticker": "adz",
+      "usd": 0.072296
+    },
+    "aeon": {
+      "btc": 0.00031821,
+      "name": "Aeon",
+      "rank": 79,
+      "ticker": "aeon",
+      "usd": 3.51
+    },
+    "aerm": {
+      "btc": 7.6E-7,
+      "name": "Aerium",
+      "rank": 500,
+      "ticker": "aerm",
+      "usd": 0.008337
+    },
+    "aglc": {
+      "btc": 3.9E-7,
+      "name": "AgrolifeCoin",
+      "rank": 684,
+      "ticker": "aglc",
+      "usd": 0.004303
+    },
+    "aib": {
+      "btc": 0.00000171,
+      "name": "Advanced Inte...",
+      "rank": 409,
+      "ticker": "aib",
+      "usd": 0.018906
+    },
+    "aky": {
+      "btc": 0.00000120,
+      "name": "Akuya Coin",
+      "rank": 799,
+      "ticker": "aky",
+      "usd": 0.01324
+    },
+    "all": {
+      "btc": 0.00000224,
+      "name": "Allion",
+      "rank": 612,
+      "ticker": "all",
+      "usd": 0.024691
+    },
+    "alqo": {
+      "btc": 0.00007886,
+      "name": "ALQO",
+      "rank": 116,
+      "ticker": "alqo",
+      "usd": 0.869894
+    },
+    "altc": {
+      "btc": 6E-8,
+      "name": "Antilitecoin",
+      "rank": 692,
+      "ticker": "altc",
+      "usd": 0.000662
+    },
+    "altcom": {
+      "btc": 0.00004774,
+      "name": "SONO",
+      "rank": 629,
+      "ticker": "altcom",
+      "usd": 0.526616
+    },
+    "amber": {
+      "btc": 6.0E-7,
+      "name": "AmberCoin",
+      "rank": 580,
+      "ticker": "amber",
+      "usd": 0.00662
+    },
+    "ammo": {
+      "btc": 6.1E-7,
+      "name": "Ammo Reloaded",
+      "rank": 398,
+      "ticker": "ammo",
+      "usd": 0.00673
+    },
+    "ams": {
+      "btc": 0.00000104,
+      "name": "AmsterdamCoin",
+      "rank": 555,
+      "ticker": "ams",
+      "usd": 0.011487
+    },
+    "anc": {
+      "btc": 0.00016047,
+      "name": "Anoncoin",
+      "rank": 264,
+      "ticker": "anc",
+      "usd": 1.77
+    },
+    "ani": {
+      "btc": 4.5E-7,
+      "name": "Animecoin",
+      "rank": 753,
+      "ticker": "ani",
+      "usd": 0.004965
+    },
+    "anti": {
+      "btc": 6.9E-7,
+      "name": "AntiBitcoin",
+      "rank": 621,
+      "ticker": "anti",
+      "usd": 0.007662
+    },
+    "antx": {
+      "btc": 3E-8,
+      "name": "Antimatter",
+      "rank": 793,
+      "ticker": "antx",
+      "usd": 0.000331
+    },
+    "apc": {
+      "btc": 5.5E-7,
+      "name": "AlpaCoin",
+      "rank": 867,
+      "ticker": "apc",
+      "usd": 0.006068
+    },
+    "arb": {
+      "btc": 8.4E-7,
+      "name": "ARbit",
+      "rank": 645,
+      "ticker": "arb",
+      "usd": 0.009268
+    },
+    "arc": {
+      "btc": 0.00000726,
+      "name": "ArcticCoin",
+      "rank": 309,
+      "ticker": "arc",
+      "usd": 0.080099
+    },
+    "arco": {
+      "btc": 0.00002601,
+      "name": "AquariusCoin",
+      "rank": 407,
+      "ticker": "arco",
+      "usd": 0.286864
+    },
+    "ardr": {
+      "btc": 0.00003576,
+      "name": "Ardor",
+      "rank": 31,
+      "ticker": "ardr",
+      "usd": 0.394441
+    },
+    "arg": {
+      "btc": 0.00000759,
+      "name": "Argentum",
+      "rank": 373,
+      "ticker": "arg",
+      "usd": 0.083755
+    },
+    "argus": {
+      "btc": 0.00000173,
+      "name": "Argus",
+      "rank": 690,
+      "ticker": "argus",
+      "usd": 0.019084
+    },
+    "ari": {
+      "btc": 4.4E-7,
+      "name": "Aricoin",
+      "rank": 525,
+      "ticker": "ari",
+      "usd": 0.004855
+    },
+    "ark": {
+      "btc": 0.00034360,
+      "name": "Ark",
+      "rank": 32,
+      "ticker": "ark",
+      "usd": 3.79
+    },
+    "asafe2": {
+      "btc": 0.00000303,
+      "name": "AllSafe",
+      "rank": 451,
+      "ticker": "asafe2",
+      "usd": 0.033408
+    },
+    "asn": {
+      "btc": 7.1E-7,
+      "name": "Aseancoin",
+      "rank": 910,
+      "ticker": "asn",
+      "usd": 0.007848
+    },
+    "atb": {
+      "btc": 0.00003924,
+      "name": "ATBCoin",
+      "rank": 137,
+      "ticker": "atb",
+      "usd": 0.432854
+    },
+    "atmc": {
+      "btc": 0.00054849,
+      "name": "ATMCoin",
+      "rank": 705,
+      "ticker": "atmc",
+      "usd": 6.05
+    },
+    "atms": {
+      "btc": 0.00000917,
+      "name": "Atmos",
+      "rank": 178,
+      "ticker": "atms",
+      "usd": 0.101175
+    },
+    "atom": {
+      "btc": 0.00000217,
+      "name": "Atomic Coin",
+      "rank": 433,
+      "ticker": "atom",
+      "usd": 0.023901
+    },
+    "atx": {
+      "btc": 4.5E-7,
+      "name": "Artex Coin",
+      "rank": 635,
+      "ticker": "atx",
+      "usd": 0.004973
+    },
+    "au": {
+      "btc": 0.00063915,
+      "name": "AurumCoin",
+      "rank": 303,
+      "ticker": "au",
+      "usd": 7.05
+    },
+    "aur": {
+      "btc": 0.00016500,
+      "name": "Auroracoin",
+      "rank": 149,
+      "ticker": "aur",
+      "usd": 1.82
+    },
+    "av": {
+      "btc": 0.00000578,
+      "name": "AvatarCoin",
+      "rank": 900,
+      "ticker": "av",
+      "usd": 0.063778
+    },
+    "axiom": {
+      "btc": 0.00000144,
+      "name": "Axiom",
+      "rank": 878,
+      "ticker": "axiom",
+      "usd": 0.015888
+    },
+    "b2x": {
+      "btc": 0.00032728,
+      "name": "SegWit2x",
+      "rank": 736,
+      "ticker": "b2x",
+      "usd": 3.61
+    },
+    "bac": {
+      "btc": 6.5E-7,
+      "name": "BitAlphaCoin",
+      "rank": 882,
+      "ticker": "bac",
+      "usd": 0.007172
+    },
+    "bash": {
+      "btc": 5.2E-7,
+      "name": "LuckChain",
+      "rank": 252,
+      "ticker": "bash",
+      "usd": 0.005745
+    },
+    "bat": {
+      "btc": 1E-8,
+      "name": "BatCoin",
+      "rank": 804,
+      "ticker": "bat",
+      "usd": 0.00011
+    },
+    "bay": {
+      "btc": 0.00000734,
+      "name": "BitBay",
+      "rank": 65,
+      "ticker": "bay",
+      "usd": 0.080986
+    },
+    "bbp": {
+      "btc": 3.0E-7,
+      "name": "BiblePay",
+      "rank": 329,
+      "ticker": "bbp",
+      "usd": 0.003265
+    },
+    "bbr": {
+      "btc": 0.00013236,
+      "name": "Boolberry",
+      "rank": 144,
+      "ticker": "bbr",
+      "usd": 1.46
+    },
+    "bca": {
+      "btc": 0.00149588,
+      "name": "Bitcoin Atom",
+      "rank": 782,
+      "ticker": "bca",
+      "usd": 16.5
+    },
+    "bcc": {
+      "btc": 0.00028467,
+      "name": "BitConnect",
+      "rank": 107,
+      "ticker": "bcc",
+      "usd": 3.14
+    },
+    "bcd": {
+      "btc": 0.00055846,
+      "name": "Bitcoin Diamond",
+      "rank": 710,
+      "ticker": "bcd",
+      "usd": 6.16
+    },
+    "bcf": {
+      "btc": 0.00000303,
+      "name": "Bitcoin Fast",
+      "rank": 464,
+      "ticker": "bcf",
+      "usd": 0.033431
+    },
+    "bch": {
+      "btc": 0.11810830,
+      "name": "Bitcoin Cash",
+      "rank": 4,
+      "ticker": "bch",
+      "usd": 1302.77
+    },
+    "bcn": {
+      "btc": 4.3E-7,
+      "name": "Bytecoin",
+      "rank": 20,
+      "ticker": "bcn",
+      "usd": 0.004748
+    },
+    "bco": {
+      "btc": 0.00037624,
+      "name": "BridgeCoin",
+      "rank": 60,
+      "ticker": "bco",
+      "usd": 4.15
+    },
+    "bcx": {
+      "btc": 6.2E-7,
+      "name": "BitcoinX",
+      "rank": 718,
+      "ticker": "bcx",
+      "usd": 0.006835
+    },
+    "bdl": {
+      "btc": 0.00000186,
+      "name": "Bitdeal",
+      "rank": 269,
+      "ticker": "bdl",
+      "usd": 0.020475
+    },
+    "bela": {
+      "btc": 0.00001502,
+      "name": "Bela",
+      "rank": 209,
+      "ticker": "bela",
+      "usd": 0.165687
+    },
+    "benji": {
+      "btc": 5.4E-7,
+      "name": "BenjiRolls",
+      "rank": 480,
+      "ticker": "benji",
+      "usd": 0.005964
+    },
+    "bern": {
+      "btc": 5.2E-7,
+      "name": "BERNcash",
+      "rank": 420,
+      "ticker": "bern",
+      "usd": 0.005691
+    },
+    "best": {
+      "btc": 6.1E-7,
+      "name": "BestChain",
+      "rank": 857,
+      "ticker": "best",
+      "usd": 0.006704
+    },
+    "bet": {
+      "btc": 6.6E-7,
+      "name": "BetaCoin",
+      "rank": 838,
+      "ticker": "bet",
+      "usd": 0.007282
+    },
+    "bigup": {
+      "btc": 3E-8,
+      "name": "BigUp",
+      "rank": 543,
+      "ticker": "bigup",
+      "usd": 0.000335
+    },
+    "bio": {
+      "btc": 0.00000140,
+      "name": "BioCoin",
+      "rank": 752,
+      "ticker": "bio",
+      "usd": 0.015397
+    },
+    "biob": {
+      "btc": 0.00000225,
+      "name": "BioBar",
+      "rank": 689,
+      "ticker": "biob",
+      "usd": 0.024825
+    },
+    "bios": {
+      "btc": 1.5E-7,
+      "name": "BiosCrypto",
+      "rank": 494,
+      "ticker": "bios",
+      "usd": 0.001655
+    },
+    "bip": {
+      "btc": 0.00001386,
+      "name": "BipCoin",
+      "rank": 589,
+      "ticker": "bip",
+      "usd": 0.152921
+    },
+    "birds": {
+      "btc": 3E-8,
+      "name": "Birds",
+      "rank": 894,
+      "ticker": "birds",
+      "usd": 0.000331
+    },
+    "bis": {
+      "btc": 0.00018223,
+      "name": "Bismuth",
+      "rank": 146,
+      "ticker": "bis",
+      "usd": 2.01
+    },
+    "bit": {
+      "btc": 0.00000352,
+      "name": "First Bitcoin",
+      "rank": 813,
+      "ticker": "bit",
+      "usd": 0.038837
+    },
+    "bitb": {
+      "btc": 0.00000172,
+      "name": "Bean Cash",
+      "rank": 83,
+      "ticker": "bitb",
+      "usd": 0.018977
+    },
+    "bitok": {
+      "btc": 1E-8,
+      "name": "Bitok",
+      "rank": 886,
+      "ticker": "bitok",
+      "usd": 0.00011
+    },
+    "bits": {
+      "btc": 0.00000404,
+      "name": "Bitstar",
+      "rank": 353,
+      "ticker": "bits",
+      "usd": 0.044574
+    },
+    "bitz": {
+      "btc": 0.00003300,
+      "name": "Bitz",
+      "rank": 541,
+      "ticker": "bitz",
+      "usd": 0.363986
+    },
+    "blazr": {
+      "btc": 3.0E-7,
+      "name": "BlazerCoin",
+      "rank": 849,
+      "ticker": "blazr",
+      "usd": 0.003305
+    },
+    "blc": {
+      "btc": 0.00000425,
+      "name": "Blakecoin",
+      "rank": 381,
+      "ticker": "blc",
+      "usd": 0.046898
+    },
+    "blitz": {
+      "btc": 0.00012964,
+      "name": "Blitzcash",
+      "rank": 216,
+      "ticker": "blitz",
+      "usd": 1.43
+    },
+    "blk": {
+      "btc": 0.00003319,
+      "name": "BlackCoin",
+      "rank": 110,
+      "ticker": "blk",
+      "usd": 0.366075
+    },
+    "block": {
+      "btc": 0.00350126,
+      "name": "Blocknet",
+      "rank": 47,
+      "ticker": "block",
+      "usd": 38.62
+    },
+    "blry": {
+      "btc": 9.4E-7,
+      "name": "BillaryCoin",
+      "rank": 636,
+      "ticker": "blry",
+      "usd": 0.010371
+    },
+    "blu": {
+      "btc": 6.5E-7,
+      "name": "BlueCoin",
+      "rank": 253,
+      "ticker": "blu",
+      "usd": 0.007118
+    },
+    "blz": {
+      "btc": 1.1E-7,
+      "name": "BlazeCoin",
+      "rank": 540,
+      "ticker": "blz",
+      "usd": 0.001214
+    },
+    "bnx": {
+      "btc": 4.3E-7,
+      "name": "BnrtxCoin",
+      "rank": 619,
+      "ticker": "bnx",
+      "usd": 0.004744
+    },
+    "boat": {
+      "btc": 2.9E-7,
+      "name": "BOAT",
+      "rank": 491,
+      "ticker": "boat",
+      "usd": 0.0032
+    },
+    "boli": {
+      "btc": 0.00000458,
+      "name": "Bolivarcoin",
+      "rank": 406,
+      "ticker": "boli",
+      "usd": 0.05053
+    },
+    "bos": {
+      "btc": 0.00003052,
+      "name": "BOScoin",
+      "rank": 720,
+      "ticker": "bos",
+      "usd": 0.336675
+    },
+    "bost": {
+      "btc": 0.00000159,
+      "name": "BoostCoin",
+      "rank": 462,
+      "ticker": "bost",
+      "usd": 0.017543
+    },
+    "bpl": {
+      "btc": 0.00002901,
+      "name": "Blockpool",
+      "rank": 202,
+      "ticker": "bpl",
+      "usd": 0.319964
+    },
+    "brain": {
+      "btc": 6.7E-7,
+      "name": "Braincoin",
+      "rank": 648,
+      "ticker": "brain",
+      "usd": 0.007392
+    },
+    "bria": {
+      "btc": 0.00003716,
+      "name": "BriaCoin",
+      "rank": 447,
+      "ticker": "bria",
+      "usd": 0.4099
+    },
+    "brit": {
+      "btc": 0.00000531,
+      "name": "BritCoin",
+      "rank": 522,
+      "ticker": "brit",
+      "usd": 0.058578
+    },
+    "brk": {
+      "btc": 0.00002696,
+      "name": "Breakout",
+      "rank": 222,
+      "ticker": "brk",
+      "usd": 0.297352
+    },
+    "bro": {
+      "btc": 0.00002015,
+      "name": "Bitradio",
+      "rank": 334,
+      "ticker": "bro",
+      "usd": 0.22228
+    },
+    "brx": {
+      "btc": 0.00010970,
+      "name": "Breakout Stake",
+      "rank": 193,
+      "ticker": "brx",
+      "usd": 1.21
+    },
+    "bsc": {
+      "btc": 8.6E-7,
+      "name": "BowsCoin",
+      "rank": 669,
+      "ticker": "bsc",
+      "usd": 0.009489
+    },
+    "bsd": {
+      "btc": 0.00009247,
+      "name": "BitSend",
+      "rank": 133,
+      "ticker": "bsd",
+      "usd": 1.02
+    },
+    "bsn": {
+      "btc": 1.2E-7,
+      "name": "Bastonet",
+      "rank": 802,
+      "ticker": "bsn",
+      "usd": 0.001324
+    },
+    "bsr": {
+      "btc": 0.00001553,
+      "name": "BitSoar",
+      "rank": 725,
+      "ticker": "bsr",
+      "usd": 0.171346
+    },
+    "bstar": {
+      "btc": 1E-8,
+      "name": "Blackstar",
+      "rank": 652,
+      "ticker": "bstar",
+      "usd": 0.00011
+    },
+    "bsty": {
+      "btc": 0.00000234,
+      "name": "GlobalBoost-Y",
+      "rank": 430,
+      "ticker": "bsty",
+      "usd": 0.025828
+    },
+    "bt2": {
+      "btc": 0.00780033,
+      "name": "BT2 [CST]",
+      "rank": 751,
+      "ticker": "bt2",
+      "usd": 86.04
+    },
+    "bta": {
+      "btc": 0.00003086,
+      "name": "Bata",
+      "rank": 316,
+      "ticker": "bta",
+      "usd": 0.340358
+    },
+    "btb": {
+      "btc": 0.00348948,
+      "name": "BitBar",
+      "rank": 330,
+      "ticker": "btb",
+      "usd": 38.49
+    },
+    "btbc": {
+      "btc": 1.7E-7,
+      "name": "Bitbase",
+      "rank": 853,
+      "ticker": "btbc",
+      "usd": 0.001876
+    },
+    "btc": {
+      "btc": 1.00000000,
+      "name": "Bitcoin",
+      "rank": 1,
+      "ticker": "btc",
+      "usd": 11030.3
+    },
+    "btcd": {
+      "btc": 0.00929893,
+      "name": "BitcoinDark",
+      "rank": 56,
+      "ticker": "btcd",
+      "usd": 102.57
+    },
+    "btcr": {
+      "btc": 4.9E-7,
+      "name": "Bitcurrency",
+      "rank": 530,
+      "ticker": "btcr",
+      "usd": 0.005406
+    },
+    "btcs": {
+      "btc": 0.00000890,
+      "name": "Bitcoin Scrypt",
+      "rank": 321,
+      "ticker": "btcs",
+      "usd": 0.098196
+    },
+    "btcz": {
+      "btc": 7.4E-7,
+      "name": "BitcoinZ",
+      "rank": 179,
+      "ticker": "btcz",
+      "usd": 0.008185
+    },
+    "btdx": {
+      "btc": 0.00002679,
+      "name": "Bitcloud",
+      "rank": 220,
+      "ticker": "btdx",
+      "usd": 0.295551
+    },
+    "btg": {
+      "btc": 0.00093742,
+      "name": "Bitgem",
+      "rank": 389,
+      "ticker": "btg",
+      "usd": 10.34
+    },
+    "btm": {
+      "btc": 0.00007790,
+      "name": "Bitmark",
+      "rank": 201,
+      "ticker": "btm",
+      "usd": 0.859216
+    },
+    "btpl": {
+      "btc": 0.00000307,
+      "name": "Bitcoin Planet",
+      "rank": 600,
+      "ticker": "btpl",
+      "usd": 0.033872
+    },
+    "btq": {
+      "btc": 0.00000125,
+      "name": "BitQuark",
+      "rank": 622,
+      "ticker": "btq",
+      "usd": 0.013791
+    },
+    "bts": {
+      "btc": 0.00002203,
+      "name": "BitShares",
+      "rank": 26,
+      "ticker": "bts",
+      "usd": 0.243043
+    },
+    "btw": {
+      "btc": 0.00001411,
+      "name": "Bitcoin White",
+      "rank": 737,
+      "ticker": "btw",
+      "usd": 0.155646
+    },
+    "btx": {
+      "btc": 0.00184945,
+      "name": "Bitcore",
+      "rank": 44,
+      "ticker": "btx",
+      "usd": 20.4
+    },
+    "bub": {
+      "btc": 0.00000131,
+      "name": "Bubble",
+      "rank": 830,
+      "ticker": "bub",
+      "usd": 0.014453
+    },
+    "bucks": {
+      "btc": 0.00017860,
+      "name": "SwagBucks",
+      "rank": 542,
+      "ticker": "bucks",
+      "usd": 1.97
+    },
+    "bumba": {
+      "btc": 0.00000140,
+      "name": "BumbaCoin",
+      "rank": 434,
+      "ticker": "bumba",
+      "usd": 0.015427
+    },
+    "bun": {
+      "btc": 0E-8,
+      "name": "BunnyCoin",
+      "rank": 233,
+      "ticker": "bun",
+      "usd": 4.9e-05
+    },
+    "burst": {
+      "btc": 0.00000351,
+      "name": "Burst",
+      "rank": 72,
+      "ticker": "burst",
+      "usd": 0.038771
+    },
+    "buzz": {
+      "btc": 3E-8,
+      "name": "BuzzCoin",
+      "rank": 214,
+      "ticker": "buzz",
+      "usd": 0.000347
+    },
+    "bwk": {
+      "btc": 0.00018948,
+      "name": "Bulwark",
+      "rank": 213,
+      "ticker": "bwk",
+      "usd": 2.09
+    },
+    "bxc": {
+      "btc": 0.00000230,
+      "name": "Bitcedi",
+      "rank": 614,
+      "ticker": "bxc",
+      "usd": 0.025376
+    },
+    "bxt": {
+      "btc": 0.00012058,
+      "name": "BitTokens",
+      "rank": 369,
+      "ticker": "bxt",
+      "usd": 1.33
+    },
+    "byc": {
+      "btc": 0.00008607,
+      "name": "Bytecent",
+      "rank": 310,
+      "ticker": "byc",
+      "usd": 0.94941
+    },
+    "c2": {
+      "btc": 6.0E-7,
+      "name": "Coin2.1",
+      "rank": 400,
+      "ticker": "c2",
+      "usd": 0.006621
+    },
+    "cab": {
+      "btc": 5.2E-7,
+      "name": "Cabbage",
+      "rank": 660,
+      "ticker": "cab",
+      "usd": 0.005737
+    },
+    "cach": {
+      "btc": 0.00000465,
+      "name": "CacheCoin",
+      "rank": 459,
+      "ticker": "cach",
+      "usd": 0.051336
+    },
+    "calc": {
+      "btc": 6E-8,
+      "name": "CaliphCoin",
+      "rank": 700,
+      "ticker": "calc",
+      "usd": 0.000665
+    },
+    "cann": {
+      "btc": 0.00000644,
+      "name": "CannabisCoin",
+      "rank": 224,
+      "ticker": "cann",
+      "usd": 0.071073
+    },
+    "carbon": {
+      "btc": 3E-8,
+      "name": "Carboncoin",
+      "rank": 235,
+      "ticker": "carbon",
+      "usd": 0.000323
+    },
+    "cash": {
+      "btc": 6.0E-7,
+      "name": "Cashcoin",
+      "rank": 578,
+      "ticker": "cash",
+      "usd": 0.00662
+    },
+    "cat": {
+      "btc": 0.00000453,
+      "name": "Catcoin",
+      "rank": 579,
+      "ticker": "cat",
+      "usd": 0.04998
+    },
+    "cbx": {
+      "btc": 0.00034813,
+      "name": "Crypto Bullion",
+      "rank": 261,
+      "ticker": "cbx",
+      "usd": 3.84
+    },
+    "cc": {
+      "btc": 3E-8,
+      "name": "CyberCoin",
+      "rank": 895,
+      "ticker": "cc",
+      "usd": 0.000331
+    },
+    "ccn": {
+      "btc": 0.00000766,
+      "name": "CannaCoin",
+      "rank": 421,
+      "ticker": "ccn",
+      "usd": 0.084515
+    },
+    "ccrb": {
+      "btc": 0.00003263,
+      "name": "CryptoCarbon",
+      "rank": 339,
+      "ticker": "ccrb",
+      "usd": 0.359898
+    },
+    "cdn": {
+      "btc": 0.00000201,
+      "name": "Canada eCoin",
+      "rank": 300,
+      "ticker": "cdn",
+      "usd": 0.022221
+    },
+    "cesc": {
+      "btc": 3E-8,
+      "name": "CryptoEscudo",
+      "rank": 672,
+      "ticker": "cesc",
+      "usd": 0.000331
+    },
+    "cf": {
+      "btc": 0.00000473,
+      "name": "Californium",
+      "rank": 624,
+      "ticker": "cf",
+      "usd": 0.052187
+    },
+    "cfc": {
+      "btc": 3.1E-7,
+      "name": "CoffeeCoin",
+      "rank": 796,
+      "ticker": "cfc",
+      "usd": 0.00342
+    },
+    "chan": {
+      "btc": 0.00000565,
+      "name": "ChanCoin",
+      "rank": 408,
+      "ticker": "chan",
+      "usd": 0.062338
+    },
+    "chat": {
+      "btc": 0.00001814,
+      "name": "ChatCoin",
+      "rank": 713,
+      "ticker": "chat",
+      "usd": 0.200047
+    },
+    "chc": {
+      "btc": 0.00002414,
+      "name": "ChainCoin",
+      "rank": 260,
+      "ticker": "chc",
+      "usd": 0.266232
+    },
+    "cheap": {
+      "btc": 7E-8,
+      "name": "Cheapcoin",
+      "rank": 909,
+      "ticker": "cheap",
+      "usd": 0.000751
+    },
+    "chess": {
+      "btc": 7.6E-7,
+      "name": "ChessCoin",
+      "rank": 563,
+      "ticker": "chess",
+      "usd": 0.008385
+    },
+    "chips": {
+      "btc": 0.00004005,
+      "name": "CHIPS",
+      "rank": 182,
+      "ticker": "chips",
+      "usd": 0.441774
+    },
+    "cj": {
+      "btc": 2.1E-7,
+      "name": "Cryptojacks",
+      "rank": 358,
+      "ticker": "cj",
+      "usd": 0.002313
+    },
+    "clam": {
+      "btc": 0.00054940,
+      "name": "Clams",
+      "rank": 139,
+      "ticker": "clam",
+      "usd": 6.06
+    },
+    "cloak": {
+      "btc": 0.00101448,
+      "name": "CloakCoin",
+      "rank": 77,
+      "ticker": "cloak",
+      "usd": 11.19
+    },
+    "club": {
+      "btc": 0.00013962,
+      "name": "ClubCoin",
+      "rank": 723,
+      "ticker": "club",
+      "usd": 1.54
+    },
+    "cme": {
+      "btc": 6E-8,
+      "name": "Cashme",
+      "rank": 780,
+      "ticker": "cme",
+      "usd": 0.000662
+    },
+    "cmp": {
+      "btc": 0.00108066,
+      "name": "Compcoin",
+      "rank": 846,
+      "ticker": "cmp",
+      "usd": 11.92
+    },
+    "cmpco": {
+      "btc": 9.4E-7,
+      "name": "CampusCoin",
+      "rank": 266,
+      "ticker": "cmpco",
+      "usd": 0.01032
+    },
+    "cmt": {
+      "btc": 0.00001472,
+      "name": "Comet",
+      "rank": 473,
+      "ticker": "cmt",
+      "usd": 0.162412
+    },
+    "cnnc": {
+      "btc": 0.00000602,
+      "name": "Cannation",
+      "rank": 608,
+      "ticker": "cnnc",
+      "usd": 0.066422
+    },
+    "cno": {
+      "btc": 4.0E-7,
+      "name": "Coin(O)",
+      "rank": 561,
+      "ticker": "cno",
+      "usd": 0.004413
+    },
+    "cnt": {
+      "btc": 0.00000119,
+      "name": "Centurion",
+      "rank": 357,
+      "ticker": "cnt",
+      "usd": 0.01316
+    },
+    "cnx": {
+      "btc": 0.00071077,
+      "name": "Cryptonex",
+      "rank": 34,
+      "ticker": "cnx",
+      "usd": 7.84
+    },
+    "coal": {
+      "btc": 0.00000579,
+      "name": "BitCoal",
+      "rank": 448,
+      "ticker": "coal",
+      "usd": 0.063887
+    },
+    "colx": {
+      "btc": 2.9E-7,
+      "name": "ColossusCoinXT",
+      "rank": 97,
+      "ticker": "colx",
+      "usd": 0.003194
+    },
+    "con": {
+      "btc": 9.6E-7,
+      "name": "PayCon",
+      "rank": 455,
+      "ticker": "con",
+      "usd": 0.010633
+    },
+    "conx": {
+      "btc": 0.00000265,
+      "name": "Concoin",
+      "rank": 691,
+      "ticker": "conx",
+      "usd": 0.029238
+    },
+    "coupe": {
+      "btc": 1E-8,
+      "name": "Coupecoin",
+      "rank": 495,
+      "ticker": "coupe",
+      "usd": 9.4e-05
+    },
+    "cpc": {
+      "btc": 0.00004852,
+      "name": "Capricoin",
+      "rank": 347,
+      "ticker": "cpc",
+      "usd": 0.535212
+    },
+    "cpn": {
+      "btc": 8.1E-7,
+      "name": "CompuCoin",
+      "rank": 605,
+      "ticker": "cpn",
+      "usd": 0.008937
+    },
+    "crave": {
+      "btc": 0.00003285,
+      "name": "Crave",
+      "rank": 738,
+      "ticker": "crave",
+      "usd": 0.362365
+    },
+    "crc": {
+      "btc": 0.00021214,
+      "name": "CrowdCoin",
+      "rank": 281,
+      "ticker": "crc",
+      "usd": 2.34
+    },
+    "crdnc": {
+      "btc": 0.00000112,
+      "name": "Credence Coin",
+      "rank": 678,
+      "ticker": "crdnc",
+      "usd": 0.012347
+    },
+    "crea": {
+      "btc": 0.00003091,
+      "name": "Creativecoin",
+      "rank": 244,
+      "ticker": "crea",
+      "usd": 0.340953
+    },
+    "creva": {
+      "btc": 5E-8,
+      "name": "CrevaCoin",
+      "rank": 496,
+      "ticker": "creva",
+      "usd": 0.000552
+    },
+    "crm": {
+      "btc": 0.00000505,
+      "name": "Cream",
+      "rank": 292,
+      "ticker": "crm",
+      "usd": 0.05572
+    },
+    "crt": {
+      "btc": 0.00004801,
+      "name": "CRTCoin",
+      "rank": 679,
+      "ticker": "crt",
+      "usd": 0.529595
+    },
+    "crw": {
+      "btc": 0.00025838,
+      "name": "Crown",
+      "rank": 81,
+      "ticker": "crw",
+      "usd": 2.85
+    },
+    "crx": {
+      "btc": 8.0E-7,
+      "name": "Chronos",
+      "rank": 388,
+      "ticker": "crx",
+      "usd": 0.008803
+    },
+    "csc": {
+      "btc": 1.5E-7,
+      "name": "CasinoCoin",
+      "rank": 748,
+      "ticker": "csc",
+      "usd": 0.001655
+    },
+    "ctic2": {
+      "btc": 8E-8,
+      "name": "Coimatic 2.0",
+      "rank": 501,
+      "ticker": "ctic2",
+      "usd": 0.000929
+    },
+    "cto": {
+      "btc": 0.00000141,
+      "name": "Crypto",
+      "rank": 601,
+      "ticker": "cto",
+      "usd": 0.015557
+    },
+    "cube": {
+      "btc": 2E-8,
+      "name": "DigiCube",
+      "rank": 396,
+      "ticker": "cube",
+      "usd": 0.000221
+    },
+    "cure": {
+      "btc": 0.00004672,
+      "name": "Curecoin",
+      "rank": 170,
+      "ticker": "cure",
+      "usd": 0.515321
+    },
+    "cv2": {
+      "btc": 3E-8,
+      "name": "Colossuscoin V2",
+      "rank": 535,
+      "ticker": "cv2",
+      "usd": 0.000331
+    },
+    "cwxt": {
+      "btc": 8E-8,
+      "name": "CryptoWorldX ...",
+      "rank": 670,
+      "ticker": "cwxt",
+      "usd": 0.000883
+    },
+    "cxt": {
+      "btc": 0.00000117,
+      "name": "Coinonat",
+      "rank": 627,
+      "ticker": "cxt",
+      "usd": 0.012865
+    },
+    "cyc": {
+      "btc": 1.6E-7,
+      "name": "Cycling Coin",
+      "rank": 869,
+      "ticker": "cyc",
+      "usd": 0.001765
+    },
+    "cyder": {
+      "btc": 5.0E-7,
+      "name": "Cyder",
+      "rank": 779,
+      "ticker": "cyder",
+      "usd": 0.005517
+    },
+    "cyp": {
+      "btc": 0.00001197,
+      "name": "Cypher",
+      "rank": 532,
+      "ticker": "cyp",
+      "usd": 0.132068
+    },
+    "dash": {
+      "btc": 0.05632757,
+      "name": "Dash",
+      "rank": 10,
+      "ticker": "dash",
+      "usd": 621.31
+    },
+    "dashs": {
+      "btc": 0.00000426,
+      "name": "Dashs",
+      "rank": 863,
+      "ticker": "dashs",
+      "usd": 0.047002
+    },
+    "dav": {
+      "btc": 0.00000370,
+      "name": "DavorCoin",
+      "rank": 759,
+      "ticker": "dav",
+      "usd": 0.040823
+    },
+    "daxx": {
+      "btc": 9E-8,
+      "name": "DaxxCoin",
+      "rank": 401,
+      "ticker": "daxx",
+      "usd": 0.000993
+    },
+    "dbg": {
+      "btc": 1.4E-7,
+      "name": "Digital Bulli...",
+      "rank": 868,
+      "ticker": "dbg",
+      "usd": 0.001545
+    },
+    "dbix": {
+      "btc": 0.00061558,
+      "name": "DubaiCoin",
+      "rank": 154,
+      "ticker": "dbix",
+      "usd": 6.79
+    },
+    "dbtc": {
+      "btc": 7.8E-7,
+      "name": "Debitcoin",
+      "rank": 611,
+      "ticker": "dbtc",
+      "usd": 0.008645
+    },
+    "dcr": {
+      "btc": 0.00729717,
+      "name": "Decred",
+      "rank": 27,
+      "ticker": "dcr",
+      "usd": 80.49
+    },
+    "dcre": {
+      "btc": 0.00002414,
+      "name": "DeltaCredits",
+      "rank": 884,
+      "ticker": "dcre",
+      "usd": 0.266232
+    },
+    "dct": {
+      "btc": 0.00007701,
+      "name": "DECENT",
+      "rank": 88,
+      "ticker": "dct",
+      "usd": 0.849405
+    },
+    "dcy": {
+      "btc": 1.3E-7,
+      "name": "Dinastycoin",
+      "rank": 304,
+      "ticker": "dcy",
+      "usd": 0.001389
+    },
+    "dem": {
+      "btc": 0.00000270,
+      "name": "Deutsche eMark",
+      "rank": 350,
+      "ticker": "dem",
+      "usd": 0.029766
+    },
+    "des": {
+      "btc": 0.00000299,
+      "name": "Destiny",
+      "rank": 667,
+      "ticker": "des",
+      "usd": 0.032997
+    },
+    "deus": {
+      "btc": 0.00001677,
+      "name": "DeusCoin",
+      "rank": 800,
+      "ticker": "deus",
+      "usd": 0.185027
+    },
+    "dfs": {
+      "btc": 0.00000460,
+      "name": "DFSCoin",
+      "rank": 365,
+      "ticker": "dfs",
+      "usd": 0.050695
+    },
+    "dft": {
+      "btc": 0.00015865,
+      "name": "DraftCoin",
+      "rank": 236,
+      "ticker": "dft",
+      "usd": 1.75
+    },
+    "dgb": {
+      "btc": 0.00000337,
+      "name": "DigiByte",
+      "rank": 33,
+      "ticker": "dgb",
+      "usd": 0.037216
+    },
+    "dgc": {
+      "btc": 0.00000403,
+      "name": "Digitalcoin",
+      "rank": 342,
+      "ticker": "dgc",
+      "usd": 0.044429
+    },
+    "dgcs": {
+      "btc": 5E-8,
+      "name": "Digital Credits",
+      "rank": 702,
+      "ticker": "dgcs",
+      "usd": 0.000552
+    },
+    "dime": {
+      "btc": 1E-8,
+      "name": "Dimecoin",
+      "rank": 104,
+      "ticker": "dime",
+      "usd": 5.9e-05
+    },
+    "disk": {
+      "btc": 1.1E-7,
+      "name": "DarkLisk",
+      "rank": 873,
+      "ticker": "disk",
+      "usd": 0.001214
+    },
+    "dlc": {
+      "btc": 0.00000276,
+      "name": "Dollarcoin",
+      "rank": 583,
+      "ticker": "dlc",
+      "usd": 0.030452
+    },
+    "dlisk": {
+      "btc": 8E-8,
+      "name": "DAPPSTER",
+      "rank": 638,
+      "ticker": "dlisk",
+      "usd": 0.000883
+    },
+    "dmb": {
+      "btc": 2.9E-7,
+      "name": "Digital Money...",
+      "rank": 505,
+      "ticker": "dmb",
+      "usd": 0.0032
+    },
+    "dmc": {
+      "btc": 2.8E-7,
+      "name": "DynamicCoin",
+      "rank": 764,
+      "ticker": "dmc",
+      "usd": 0.003127
+    },
+    "dmd": {
+      "btc": 0.00122571,
+      "name": "Diamond",
+      "rank": 96,
+      "ticker": "dmd",
+      "usd": 13.52
+    },
+    "dnr": {
+      "btc": 0.00025747,
+      "name": "Denarius",
+      "rank": 207,
+      "ticker": "dnr",
+      "usd": 2.84
+    },
+    "doge": {
+      "btc": 5.7E-7,
+      "name": "Dogecoin",
+      "rank": 24,
+      "ticker": "doge",
+      "usd": 0.006297
+    },
+    "dollar": {
+      "btc": 0.00000417,
+      "name": "Dollar Online",
+      "rank": 685,
+      "ticker": "dollar",
+      "usd": 0.046009
+    },
+    "don": {
+      "btc": 1.4E-7,
+      "name": "Donationcoin",
+      "rank": 774,
+      "ticker": "don",
+      "usd": 0.001545
+    },
+    "dope": {
+      "btc": 0.00000636,
+      "name": "DopeCoin",
+      "rank": 189,
+      "ticker": "dope",
+      "usd": 0.070125
+    },
+    "dp": {
+      "btc": 0.00001086,
+      "name": "DigitalPrice",
+      "rank": 296,
+      "ticker": "dp",
+      "usd": 0.119786
+    },
+    "drm": {
+      "btc": 0.00000284,
+      "name": "Dreamcoin",
+      "rank": 644,
+      "ticker": "drm",
+      "usd": 0.031304
+    },
+    "drs": {
+      "btc": 2E-8,
+      "name": "Digital Rupees",
+      "rank": 482,
+      "ticker": "drs",
+      "usd": 0.000221
+    },
+    "drxne": {
+      "btc": 0.00000103,
+      "name": "DROXNE",
+      "rank": 536,
+      "ticker": "drxne",
+      "usd": 0.011364
+    },
+    "dsh": {
+      "btc": 0.00000200,
+      "name": "Dashcoin",
+      "rank": 569,
+      "ticker": "dsh",
+      "usd": 0.022066
+    },
+    "dsr": {
+      "btc": 0.00005426,
+      "name": "Desire",
+      "rank": 390,
+      "ticker": "dsr",
+      "usd": 0.598494
+    },
+    "dtc": {
+      "btc": 0.00000300,
+      "name": "Datacoin",
+      "rank": 526,
+      "ticker": "dtc",
+      "usd": 0.0331
+    },
+    "dub": {
+      "btc": 2.2E-7,
+      "name": "Dubstep",
+      "rank": 896,
+      "ticker": "dub",
+      "usd": 0.002427
+    },
+    "duo": {
+      "btc": 0.00008450,
+      "name": "ParallelCoin",
+      "rank": 446,
+      "ticker": "duo",
+      "usd": 0.932018
+    },
+    "dutch": {
+      "btc": 1.1E-7,
+      "name": "Dutch Coin",
+      "rank": 820,
+      "ticker": "dutch",
+      "usd": 0.001214
+    },
+    "dyn": {
+      "btc": 0.00025566,
+      "name": "Dynamic",
+      "rank": 162,
+      "ticker": "dyn",
+      "usd": 2.82
+    },
+    "eac": {
+      "btc": 1.0E-7,
+      "name": "EarthCoin",
+      "rank": 165,
+      "ticker": "eac",
+      "usd": 0.001092
+    },
+    "eag": {
+      "btc": 0.00003005,
+      "name": "EA Coin",
+      "rank": 744,
+      "ticker": "eag",
+      "usd": 0.331438
+    },
+    "ebst": {
+      "btc": 0.00002697,
+      "name": "eBoost",
+      "rank": 270,
+      "ticker": "ebst",
+      "usd": 0.297456
+    },
+    "ebt": {
+      "btc": 1.1E-7,
+      "name": "Ebittree Coin",
+      "rank": 703,
+      "ticker": "ebt",
+      "usd": 0.001214
+    },
+    "eca": {
+      "btc": 1.0E-7,
+      "name": "Electra",
+      "rank": 115,
+      "ticker": "eca",
+      "usd": 0.001107
+    },
+    "ecc": {
+      "btc": 1.6E-7,
+      "name": "ECC",
+      "rank": 86,
+      "ticker": "ecc",
+      "usd": 0.001767
+    },
+    "ecn": {
+      "btc": 0.00365176,
+      "name": "E-coin",
+      "rank": 159,
+      "ticker": "ecn",
+      "usd": 40.28
+    },
+    "eco": {
+      "btc": 0.00001683,
+      "name": "EcoCoin",
+      "rank": 460,
+      "ticker": "eco",
+      "usd": 0.185638
+    },
+    "edr": {
+      "btc": 0.00000202,
+      "name": "E-Dinar Coin",
+      "rank": 129,
+      "ticker": "edr",
+      "usd": 0.02226
+    },
+    "edrc": {
+      "btc": 0.00001127,
+      "name": "EDRCoin",
+      "rank": 773,
+      "ticker": "edrc",
+      "usd": 0.124272
+    },
+    "efl": {
+      "btc": 0.00002262,
+      "name": "e-Gulden",
+      "rank": 254,
+      "ticker": "efl",
+      "usd": 0.249454
+    },
+    "egc": {
+      "btc": 0.00003321,
+      "name": "EverGreenCoin",
+      "rank": 237,
+      "ticker": "egc",
+      "usd": 0.366361
+    },
+    "egg": {
+      "btc": 0.00000297,
+      "name": "EggCoin",
+      "rank": 769,
+      "ticker": "egg",
+      "usd": 0.032769
+    },
+    "ego": {
+      "btc": 1.2E-7,
+      "name": "EGO",
+      "rank": 641,
+      "ticker": "ego",
+      "usd": 0.001324
+    },
+    "el": {
+      "btc": 0.00000869,
+      "name": "Elcoin",
+      "rank": 346,
+      "ticker": "el",
+      "usd": 0.09589
+    },
+    "ela": {
+      "btc": 0.00755827,
+      "name": "Elastos",
+      "rank": 706,
+      "ticker": "ela",
+      "usd": 83.37
+    },
+    "elc": {
+      "btc": 0.00002790,
+      "name": "Elacoin",
+      "rank": 478,
+      "ticker": "elc",
+      "usd": 0.307717
+    },
+    "ele": {
+      "btc": 0.00000360,
+      "name": "Elementrem",
+      "rank": 352,
+      "ticker": "ele",
+      "usd": 0.03972
+    },
+    "ella": {
+      "btc": 0.00006089,
+      "name": "Ellaism",
+      "rank": 272,
+      "ticker": "ella",
+      "usd": 0.671588
+    },
+    "els": {
+      "btc": 4.2E-7,
+      "name": "Elysium",
+      "rank": 693,
+      "ticker": "els",
+      "usd": 0.004634
+    },
+    "emc": {
+      "btc": 0.00033725,
+      "name": "Emercoin",
+      "rank": 51,
+      "ticker": "emc",
+      "usd": 3.72
+    },
+    "emc2": {
+      "btc": 0.00002815,
+      "name": "Einsteinium",
+      "rank": 73,
+      "ticker": "emc2",
+      "usd": 0.310477
+    },
+    "emd": {
+      "btc": 0.00000174,
+      "name": "Emerald Crypto",
+      "rank": 573,
+      "ticker": "emd",
+      "usd": 0.019198
+    },
+    "enrg": {
+      "btc": 0.00001381,
+      "name": "Energycoin",
+      "rank": 134,
+      "ticker": "enrg",
+      "usd": 0.152369
+    },
+    "ent": {
+      "btc": 0.00000536,
+      "name": "ENTCash",
+      "rank": 739,
+      "ticker": "ent",
+      "usd": 0.05916
+    },
+    "eqt": {
+      "btc": 0.00002961,
+      "name": "EquiTrader",
+      "rank": 277,
+      "ticker": "eqt",
+      "usd": 0.326626
+    },
+    "era": {
+      "btc": 4.4E-7,
+      "name": "ERA",
+      "rank": 328,
+      "ticker": "era",
+      "usd": 0.004866
+    },
+    "erc": {
+      "btc": 0.00006178,
+      "name": "EuropeCoin",
+      "rank": 205,
+      "ticker": "erc",
+      "usd": 0.681412
+    },
+    "ery": {
+      "btc": 0.00000271,
+      "name": "Eryllium",
+      "rank": 470,
+      "ticker": "ery",
+      "usd": 0.029902
+    },
+    "esp": {
+      "btc": 7E-8,
+      "name": "Espers",
+      "rank": 145,
+      "ticker": "esp",
+      "usd": 0.000764
+    },
+    "etc": {
+      "btc": 0.00310780,
+      "name": "Ethereum Classic",
+      "rank": 13,
+      "ticker": "etc",
+      "usd": 34.28
+    },
+    "eth": {
+      "btc": 0.07970227,
+      "name": "Ethereum",
+      "rank": 2,
+      "ticker": "eth",
+      "usd": 879.14
+    },
+    "ethd": {
+      "btc": 0.00002050,
+      "name": "Ethereum Dark",
+      "rank": 438,
+      "ticker": "ethd",
+      "usd": 0.226169
+    },
+    "etn": {
+      "btc": 0.00000677,
+      "name": "Electroneum",
+      "rank": 28,
+      "ticker": "etn",
+      "usd": 0.074723
+    },
+    "etp": {
+      "btc": 0.00015593,
+      "name": "Metaverse ETP",
+      "rank": 74,
+      "ticker": "etp",
+      "usd": 1.72
+    },
+    "euc": {
+      "btc": 0.00000196,
+      "name": "Eurocoin",
+      "rank": 452,
+      "ticker": "euc",
+      "usd": 0.021621
+    },
+    "evil": {
+      "btc": 0.00000167,
+      "name": "Evil Coin",
+      "rank": 424,
+      "ticker": "evil",
+      "usd": 0.01847
+    },
+    "evo": {
+      "btc": 0.00000577,
+      "name": "Evotion",
+      "rank": 463,
+      "ticker": "evo",
+      "usd": 0.063666
+    },
+    "excl": {
+      "btc": 0.00013780,
+      "name": "ExclusiveCoin",
+      "rank": 206,
+      "ticker": "excl",
+      "usd": 1.52
+    },
+    "exp": {
+      "btc": 0.00027198,
+      "name": "Expanse",
+      "rank": 119,
+      "ticker": "exp",
+      "usd": 3.0
+    },
+    "fair": {
+      "btc": 0.00004251,
+      "name": "FairCoin",
+      "rank": 117,
+      "ticker": "fair",
+      "usd": 0.468912
+    },
+    "fazz": {
+      "btc": 0.00000150,
+      "name": "Fazzcoin",
+      "rank": 789,
+      "ticker": "fazz",
+      "usd": 0.016529
+    },
+    "fc2": {
+      "btc": 7.5E-7,
+      "name": "FuelCoin",
+      "rank": 366,
+      "ticker": "fc2",
+      "usd": 0.008275
+    },
+    "fcn": {
+      "btc": 0.00001800,
+      "name": "Fantomcoin",
+      "rank": 518,
+      "ticker": "fcn",
+      "usd": 0.198598
+    },
+    "fct": {
+      "btc": 0.00304162,
+      "name": "Factom",
+      "rank": 38,
+      "ticker": "fct",
+      "usd": 33.55
+    },
+    "ffc": {
+      "btc": 2E-8,
+      "name": "FireFlyCoin",
+      "rank": 847,
+      "ticker": "ffc",
+      "usd": 0.000221
+    },
+    "fid": {
+      "btc": 0.00000380,
+      "name": "BITFID",
+      "rank": 911,
+      "ticker": "fid",
+      "usd": 0.04196
+    },
+    "fil": {
+      "btc": 0.00171074,
+      "name": "Filecoin [Fut...",
+      "rank": 732,
+      "ticker": "fil",
+      "usd": 18.87
+    },
+    "fimk": {
+      "btc": 5.0E-7,
+      "name": "FIMKrypto",
+      "rank": 510,
+      "ticker": "fimk",
+      "usd": 0.005517
+    },
+    "fire": {
+      "btc": 0.00020036,
+      "name": "Firecoin",
+      "rank": 595,
+      "ticker": "fire",
+      "usd": 2.21
+    },
+    "fjc": {
+      "btc": 1.2E-7,
+      "name": "FujiCoin",
+      "rank": 315,
+      "ticker": "fjc",
+      "usd": 0.001327
+    },
+    "flap": {
+      "btc": 0E-8,
+      "name": "FlappyCoin",
+      "rank": 832,
+      "ticker": "flap",
+      "usd": 2e-05
+    },
+    "flash": {
+      "btc": 0.00000333,
+      "name": "Flash",
+      "rank": 98,
+      "ticker": "flash",
+      "usd": 0.036696
+    },
+    "flax": {
+      "btc": 0.00000219,
+      "name": "Flaxscript",
+      "rank": 620,
+      "ticker": "flax",
+      "usd": 0.024163
+    },
+    "flo": {
+      "btc": 0.00001007,
+      "name": "FlorinCoin",
+      "rank": 147,
+      "ticker": "flo",
+      "usd": 0.111101
+    },
+    "flt": {
+      "btc": 4.4E-7,
+      "name": "FlutterCoin",
+      "rank": 302,
+      "ticker": "flt",
+      "usd": 0.004855
+    },
+    "fly": {
+      "btc": 0.00027288,
+      "name": "Flycoin",
+      "rank": 549,
+      "ticker": "fly",
+      "usd": 3.01
+    },
+    "fnc": {
+      "btc": 0.00000149,
+      "name": "FinCoin",
+      "rank": 461,
+      "ticker": "fnc",
+      "usd": 0.01648
+    },
+    "fonz": {
+      "btc": 1.5E-7,
+      "name": "Fonziecoin",
+      "rank": 790,
+      "ticker": "fonz",
+      "usd": 0.001655
+    },
+    "for": {
+      "btc": 0.00000359,
+      "name": "FORCE",
+      "rank": 246,
+      "ticker": "for",
+      "usd": 0.039619
+    },
+    "frc": {
+      "btc": 0.00000117,
+      "name": "Freicoin",
+      "rank": 568,
+      "ticker": "frc",
+      "usd": 0.012909
+    },
+    "frct": {
+      "btc": 0E-8,
+      "name": "Farstcoin",
+      "rank": 913,
+      "ticker": "frct",
+      "usd": 0
+    },
+    "frgc": {
+      "btc": 0.00080052,
+      "name": "Fargocoin",
+      "rank": 717,
+      "ticker": "frgc",
+      "usd": 8.83
+    },
+    "frk": {
+      "btc": 0.00002414,
+      "name": "Franko",
+      "rank": 590,
+      "ticker": "frk",
+      "usd": 0.266232
+    },
+    "frn": {
+      "btc": 0.00000607,
+      "name": "Francs",
+      "rank": 825,
+      "ticker": "frn",
+      "usd": 0.066947
+    },
+    "frst": {
+      "btc": 0.00006204,
+      "name": "FirstCoin",
+      "rank": 340,
+      "ticker": "frst",
+      "usd": 0.684281
+    },
+    "frwc": {
+      "btc": 3.3E-7,
+      "name": "FrankyWillCoin",
+      "rank": 881,
+      "ticker": "frwc",
+      "usd": 0.003641
+    },
+    "fst": {
+      "btc": 0.00000120,
+      "name": "Fastcoin",
+      "rank": 305,
+      "ticker": "fst",
+      "usd": 0.01324
+    },
+    "ftc": {
+      "btc": 0.00002066,
+      "name": "Feathercoin",
+      "rank": 87,
+      "ticker": "ftc",
+      "usd": 0.227911
+    },
+    "futc": {
+      "btc": 2.6E-7,
+      "name": "FutCoin",
+      "rank": 885,
+      "ticker": "futc",
+      "usd": 0.002869
+    },
+    "fuzz": {
+      "btc": 0.00000321,
+      "name": "FuzzBalls",
+      "rank": 469,
+      "ticker": "fuzz",
+      "usd": 0.035378
+    },
+    "g3n": {
+      "btc": 6.4E-7,
+      "name": "G3N",
+      "rank": 666,
+      "ticker": "g3n",
+      "usd": 0.007061
+    },
+    "gaia": {
+      "btc": 0.00000349,
+      "name": "GAIA",
+      "rank": 359,
+      "ticker": "gaia",
+      "usd": 0.038506
+    },
+    "gain": {
+      "btc": 3.7E-7,
+      "name": "UGAIN",
+      "rank": 866,
+      "ticker": "gain",
+      "usd": 0.004056
+    },
+    "gam": {
+      "btc": 0.00129099,
+      "name": "Gambit",
+      "rank": 142,
+      "ticker": "gam",
+      "usd": 14.24
+    },
+    "game": {
+      "btc": 0.00022302,
+      "name": "GameCredits",
+      "rank": 50,
+      "ticker": "game",
+      "usd": 2.46
+    },
+    "gap": {
+      "btc": 0.00000465,
+      "name": "Gapcoin",
+      "rank": 547,
+      "ticker": "gap",
+      "usd": 0.051305
+    },
+    "gay": {
+      "btc": 0.00000360,
+      "name": "GAY Money",
+      "rank": 818,
+      "ticker": "gay",
+      "usd": 0.03972
+    },
+    "gb": {
+      "btc": 0.00000327,
+      "name": "GoldBlocks",
+      "rank": 393,
+      "ticker": "gb",
+      "usd": 0.036048
+    },
+    "gbc": {
+      "btc": 3.6E-7,
+      "name": "GBCGoldCoin",
+      "rank": 493,
+      "ticker": "gbc",
+      "usd": 0.00398
+    },
+    "gbg": {
+      "btc": 0.00001017,
+      "name": "Golos Gold",
+      "rank": 746,
+      "ticker": "gbg",
+      "usd": 0.112205
+    },
+    "gbx": {
+      "btc": 0.00142063,
+      "name": "GoByte",
+      "rank": 161,
+      "ticker": "gbx",
+      "usd": 15.67
+    },
+    "gbyte": {
+      "btc": 0.04000616,
+      "name": "Byteball Bytes",
+      "rank": 39,
+      "ticker": "gbyte",
+      "usd": 441.28
+    },
+    "gcc": {
+      "btc": 6.3E-7,
+      "name": "GuccioneCoin",
+      "rank": 617,
+      "ticker": "gcc",
+      "usd": 0.006915
+    },
+    "gcn": {
+      "btc": 0E-8,
+      "name": "GCN Coin",
+      "rank": 228,
+      "ticker": "gcn",
+      "usd": 3.5e-05
+    },
+    "gcr": {
+      "btc": 0.00001149,
+      "name": "Global Curren...",
+      "rank": 163,
+      "ticker": "gcr",
+      "usd": 0.126738
+    },
+    "gdc": {
+      "btc": 4E-8,
+      "name": "GrandCoin",
+      "rank": 777,
+      "ticker": "gdc",
+      "usd": 0.000441
+    },
+    "geert": {
+      "btc": 8.9E-7,
+      "name": "GeertCoin",
+      "rank": 671,
+      "ticker": "geert",
+      "usd": 0.00982
+    },
+    "geo": {
+      "btc": 0.00023027,
+      "name": "GeoCoin",
+      "rank": 731,
+      "ticker": "geo",
+      "usd": 2.54
+    },
+    "glc": {
+      "btc": 6.6E-7,
+      "name": "GlobalCoin",
+      "rank": 560,
+      "ticker": "glc",
+      "usd": 0.007282
+    },
+    "gld": {
+      "btc": 0.00001667,
+      "name": "GoldCoin",
+      "rank": 195,
+      "ticker": "gld",
+      "usd": 0.183929
+    },
+    "gls": {
+      "btc": 0.00002103,
+      "name": "GlassCoin",
+      "rank": 387,
+      "ticker": "gls",
+      "usd": 0.231919
+    },
+    "glt": {
+      "btc": 0.00000144,
+      "name": "GlobalToken",
+      "rank": 414,
+      "ticker": "glt",
+      "usd": 0.015917
+    },
+    "gml": {
+      "btc": 0.00000166,
+      "name": "GameLeagueCoin",
+      "rank": 897,
+      "ticker": "gml",
+      "usd": 0.018315
+    },
+    "gmx": {
+      "btc": 1.2E-7,
+      "name": "GoldMaxCoin",
+      "rank": 862,
+      "ticker": "gmx",
+      "usd": 0.001281
+    },
+    "god": {
+      "btc": 0.00282857,
+      "name": "Bitcoin God",
+      "rank": 775,
+      "ticker": "god",
+      "usd": 31.2
+    },
+    "golf": {
+      "btc": 2E-8,
+      "name": "Golfcoin",
+      "rank": 841,
+      "ticker": "golf",
+      "usd": 0.000221
+    },
+    "golos": {
+      "btc": 0.00001273,
+      "name": "Golos",
+      "rank": 141,
+      "ticker": "golos",
+      "usd": 0.14045
+    },
+    "gp": {
+      "btc": 0.00000976,
+      "name": "GoldPieces",
+      "rank": 476,
+      "ticker": "gp",
+      "usd": 0.107626
+    },
+    "gpl": {
+      "btc": 0.00004001,
+      "name": "Gold Pressed ...",
+      "rank": 481,
+      "ticker": "gpl",
+      "usd": 0.441329
+    },
+    "gpu": {
+      "btc": 3.9E-7,
+      "name": "GPU Coin",
+      "rank": 467,
+      "ticker": "gpu",
+      "usd": 0.004341
+    },
+    "grc": {
+      "btc": 0.00000604,
+      "name": "GridCoin",
+      "rank": 114,
+      "ticker": "grc",
+      "usd": 0.066593
+    },
+    "gre": {
+      "btc": 8E-8,
+      "name": "Greencoin",
+      "rank": 274,
+      "ticker": "gre",
+      "usd": 0.000889
+    },
+    "grim": {
+      "btc": 0.00000159,
+      "name": "Grimcoin",
+      "rank": 520,
+      "ticker": "grim",
+      "usd": 0.017581
+    },
+    "grlc": {
+      "btc": 0.00001483,
+      "name": "Garlicoin",
+      "rank": 384,
+      "ticker": "grlc",
+      "usd": 0.163561
+    },
+    "grn": {
+      "btc": 0.00000120,
+      "name": "Granite",
+      "rank": 821,
+      "ticker": "grn",
+      "usd": 0.01324
+    },
+    "grs": {
+      "btc": 0.00005867,
+      "name": "Groestlcoin",
+      "rank": 84,
+      "ticker": "grs",
+      "usd": 0.647177
+    },
+    "grwi": {
+      "btc": 0.00016863,
+      "name": "Growers Inter...",
+      "rank": 299,
+      "ticker": "grwi",
+      "usd": 1.86
+    },
+    "gsr": {
+      "btc": 0.00002424,
+      "name": "GeyserCoin",
+      "rank": 696,
+      "ticker": "gsr",
+      "usd": 0.267335
+    },
+    "gtc": {
+      "btc": 9.6E-7,
+      "name": "Global Tour Coin",
+      "rank": 443,
+      "ticker": "gtc",
+      "usd": 0.010592
+    },
+    "gun": {
+      "btc": 6.2E-7,
+      "name": "Guncoin",
+      "rank": 332,
+      "ticker": "gun",
+      "usd": 0.006841
+    },
+    "gxs": {
+      "btc": 0.00037805,
+      "name": "GXShares",
+      "rank": 41,
+      "ticker": "gxs",
+      "usd": 4.17
+    },
+    "hal": {
+      "btc": 0.00001414,
+      "name": "Halcyon",
+      "rank": 531,
+      "ticker": "hal",
+      "usd": 0.15601
+    },
+    "hallo": {
+      "btc": 4E-8,
+      "name": "Halloween Coin",
+      "rank": 850,
+      "ticker": "hallo",
+      "usd": 0.000441
+    },
+    "hbc": {
+      "btc": 0.00001389,
+      "name": "HomeBlockCoin",
+      "rank": 371,
+      "ticker": "hbc",
+      "usd": 0.153256
+    },
+    "hbn": {
+      "btc": 0.00000140,
+      "name": "HoboNickels",
+      "rank": 527,
+      "ticker": "hbn",
+      "usd": 0.015447
+    },
+    "hc": {
+      "btc": 0.00003547,
+      "name": "Harvest Maste...",
+      "rank": 766,
+      "ticker": "hc",
+      "usd": 0.391238
+    },
+    "hcc": {
+      "btc": 1E-8,
+      "name": "Happy Creator...",
+      "rank": 836,
+      "ticker": "hcc",
+      "usd": 0.00011
+    },
+    "heat": {
+      "btc": 0.00002863,
+      "name": "HEAT",
+      "rank": 177,
+      "ticker": "heat",
+      "usd": 0.315793
+    },
+    "high": {
+      "btc": 3E-8,
+      "name": "High Gain",
+      "rank": 812,
+      "ticker": "high",
+      "usd": 0.000331
+    },
+    "hmc": {
+      "btc": 6.4E-7,
+      "name": "HarmonyCoin",
+      "rank": 502,
+      "ticker": "hmc",
+      "usd": 0.00706
+    },
+    "hmp": {
+      "btc": 1E-8,
+      "name": "HempCoin",
+      "rank": 472,
+      "ticker": "hmp",
+      "usd": 0.00011
+    },
+    "hnc": {
+      "btc": 1.3E-7,
+      "name": "Huncoin",
+      "rank": 855,
+      "ticker": "hnc",
+      "usd": 0.001434
+    },
+    "hodl": {
+      "btc": 7.4E-7,
+      "name": "HOdlcoin",
+      "rank": 337,
+      "ticker": "hodl",
+      "usd": 0.008165
+    },
+    "hold": {
+      "btc": 0.00000235,
+      "name": "Interstellar ...",
+      "rank": 259,
+      "ticker": "hold",
+      "usd": 0.025929
+    },
+    "honey": {
+      "btc": 0.00007161,
+      "name": "Honey",
+      "rank": 431,
+      "ticker": "honey",
+      "usd": 0.789841
+    },
+    "hpc": {
+      "btc": 0.00000694,
+      "name": "Happycoin",
+      "rank": 351,
+      "ticker": "hpc",
+      "usd": 0.076501
+    },
+    "hsr": {
+      "btc": 0.00086308,
+      "name": "Hshare",
+      "rank": 30,
+      "ticker": "hsr",
+      "usd": 9.52
+    },
+    "ht": {
+      "btc": 0.00020761,
+      "name": "Huobi Token",
+      "rank": 704,
+      "ticker": "ht",
+      "usd": 2.29
+    },
+    "htc": {
+      "btc": 1E-8,
+      "name": "HitCoin",
+      "rank": 524,
+      "ticker": "htc",
+      "usd": 0.00011
+    },
+    "html": {
+      "btc": 1.0E-7,
+      "name": "HTMLCOIN",
+      "rank": 69,
+      "ticker": "html",
+      "usd": 0.001096
+    },
+    "html5": {
+      "btc": 4E-8,
+      "name": "HTML5COIN",
+      "rank": 792,
+      "ticker": "html5",
+      "usd": 0.000441
+    },
+    "huc": {
+      "btc": 0.00002288,
+      "name": "HunterCoin",
+      "rank": 225,
+      "ticker": "huc",
+      "usd": 0.25233
+    },
+    "hush": {
+      "btc": 0.00015956,
+      "name": "Hush",
+      "rank": 218,
+      "ticker": "hush",
+      "usd": 1.76
+    },
+    "hvco": {
+      "btc": 0.00000240,
+      "name": "High Voltage",
+      "rank": 681,
+      "ticker": "hvco",
+      "usd": 0.02648
+    },
+    "hwc": {
+      "btc": 0.00044876,
+      "name": "HollyWoodCoin",
+      "rank": 243,
+      "ticker": "hwc",
+      "usd": 4.95
+    },
+    "hxx": {
+      "btc": 0.00018041,
+      "name": "Hexx",
+      "rank": 282,
+      "ticker": "hxx",
+      "usd": 1.99
+    },
+    "hyp": {
+      "btc": 6.4E-7,
+      "name": "HyperStake",
+      "rank": 190,
+      "ticker": "hyp",
+      "usd": 0.007089
+    },
+    "hyper": {
+      "btc": 0.00000405,
+      "name": "Hyper",
+      "rank": 859,
+      "ticker": "hyper",
+      "usd": 0.044685
+    },
+    "i0c": {
+      "btc": 0.00000581,
+      "name": "I0Coin",
+      "rank": 336,
+      "ticker": "i0c",
+      "usd": 0.064103
+    },
+    "ibank": {
+      "btc": 7.8E-7,
+      "name": "iBank",
+      "rank": 683,
+      "ticker": "ibank",
+      "usd": 0.008606
+    },
+    "ic": {
+      "btc": 0.00107794,
+      "name": "Ignition",
+      "rank": 258,
+      "ticker": "ic",
+      "usd": 11.89
+    },
+    "icn": {
+      "btc": 0.00000158,
+      "name": "iCoin",
+      "rank": 558,
+      "ticker": "icn",
+      "usd": 0.017433
+    },
+    "icob": {
+      "btc": 1.8E-7,
+      "name": "ICOBID",
+      "rank": 597,
+      "ticker": "icob",
+      "usd": 0.002029
+    },
+    "icon": {
+      "btc": 0.00001171,
+      "name": "Iconic",
+      "rank": 487,
+      "ticker": "icon",
+      "usd": 0.129174
+    },
+    "ifc": {
+      "btc": 2E-8,
+      "name": "Infinitecoin",
+      "rank": 733,
+      "ticker": "ifc",
+      "usd": 0.000194
+    },
+    "iflt": {
+      "btc": 1E-8,
+      "name": "InflationCoin",
+      "rank": 279,
+      "ticker": "iflt",
+      "usd": 8.4e-05
+    },
+    "imps": {
+      "btc": 2.9E-7,
+      "name": "ImpulseCoin",
+      "rank": 654,
+      "ticker": "imps",
+      "usd": 0.0032
+    },
+    "ims": {
+      "btc": 0.00000548,
+      "name": "Independent M...",
+      "rank": 441,
+      "ticker": "ims",
+      "usd": 0.060394
+    },
+    "imx": {
+      "btc": 1.8E-7,
+      "name": "Impact",
+      "rank": 596,
+      "ticker": "imx",
+      "usd": 0.001986
+    },
+    "india": {
+      "btc": 9E-8,
+      "name": "India Coin",
+      "rank": 795,
+      "ticker": "india",
+      "usd": 0.000993
+    },
+    "inf": {
+      "btc": 8.4E-7,
+      "name": "InfChain",
+      "rank": 724,
+      "ticker": "inf",
+      "usd": 0.009228
+    },
+    "infx": {
+      "btc": 0.00004170,
+      "name": "Influxcoin",
+      "rank": 370,
+      "ticker": "infx",
+      "usd": 0.460015
+    },
+    "inn": {
+      "btc": 0.00019401,
+      "name": "Innova",
+      "rank": 247,
+      "ticker": "inn",
+      "usd": 2.14
+    },
+    "insn": {
+      "btc": 0.00000831,
+      "name": "InsaneCoin",
+      "rank": 317,
+      "ticker": "insn",
+      "usd": 0.091709
+    },
+    "ioc": {
+      "btc": 0.00016772,
+      "name": "I/O Coin",
+      "rank": 105,
+      "ticker": "ioc",
+      "usd": 1.85
+    },
+    "ion": {
+      "btc": 0.00035176,
+      "name": "ION",
+      "rank": 67,
+      "ticker": "ion",
+      "usd": 3.88
+    },
+    "iop": {
+      "btc": 0.00033907,
+      "name": "Internet of P...",
+      "rank": 168,
+      "ticker": "iop",
+      "usd": 3.74
+    },
+    "irl": {
+      "btc": 0.00000106,
+      "name": "IrishCoin",
+      "rank": 852,
+      "ticker": "irl",
+      "usd": 0.011695
+    },
+    "isl": {
+      "btc": 0.00001600,
+      "name": "IslaCoin",
+      "rank": 585,
+      "ticker": "isl",
+      "usd": 0.176532
+    },
+    "iti": {
+      "btc": 0.00344778,
+      "name": "iTicoin",
+      "rank": 523,
+      "ticker": "iti",
+      "usd": 38.03
+    },
+    "itns": {
+      "btc": 8.0E-7,
+      "name": "IntenseCoin",
+      "rank": 276,
+      "ticker": "itns",
+      "usd": 0.008865
+    },
+    "ivz": {
+      "btc": 0.00006462,
+      "name": "InvisibleCoin",
+      "rank": 898,
+      "ticker": "ivz",
+      "usd": 0.712765
+    },
+    "ixc": {
+      "btc": 0.00001993,
+      "name": "Ixcoin",
+      "rank": 245,
+      "ticker": "ixc",
+      "usd": 0.219847
+    },
+    "j": {
+      "btc": 0.00001321,
+      "name": "Joincoin",
+      "rank": 564,
+      "ticker": "j",
+      "usd": 0.145749
+    },
+    "jew": {
+      "btc": 0.00000249,
+      "name": "Shekel",
+      "rank": 757,
+      "ticker": "jew",
+      "usd": 0.027437
+    },
+    "jin": {
+      "btc": 0.00000300,
+      "name": "Jin Coin",
+      "rank": 576,
+      "ticker": "jin",
+      "usd": 0.0331
+    },
+    "jiyo": {
+      "btc": 0.00000420,
+      "name": "Jiyo",
+      "rank": 814,
+      "ticker": "jiyo",
+      "usd": 0.04634
+    },
+    "jobs": {
+      "btc": 4E-8,
+      "name": "JobsCoin",
+      "rank": 673,
+      "ticker": "jobs",
+      "usd": 0.000441
+    },
+    "jwl": {
+      "btc": 4.3E-7,
+      "name": "Jewels",
+      "rank": 631,
+      "ticker": "jwl",
+      "usd": 0.004744
+    },
+    "karma": {
+      "btc": 1E-8,
+      "name": "Karmacoin",
+      "rank": 872,
+      "ticker": "karma",
+      "usd": 0.00011
+    },
+    "kashh": {
+      "btc": 1E-8,
+      "name": "KashhCoin",
+      "rank": 907,
+      "ticker": "kashh",
+      "usd": 0.000104
+    },
+    "kayi": {
+      "btc": 1.3E-7,
+      "name": "Kayicoin",
+      "rank": 419,
+      "ticker": "kayi",
+      "usd": 0.001439
+    },
+    "kb3": {
+      "btc": 0.00000127,
+      "name": "B3Coin",
+      "rank": 756,
+      "ticker": "kb3",
+      "usd": 0.01403
+    },
+    "kdc": {
+      "btc": 0.00000217,
+      "name": "KlondikeCoin",
+      "rank": 835,
+      "ticker": "kdc",
+      "usd": 0.023942
+    },
+    "ked": {
+      "btc": 0.00000127,
+      "name": "Darsek",
+      "rank": 591,
+      "ticker": "ked",
+      "usd": 0.014012
+    },
+    "kek": {
+      "btc": 0.00001999,
+      "name": "KekCoin",
+      "rank": 295,
+      "ticker": "kek",
+      "usd": 0.220444
+    },
+    "klc": {
+      "btc": 0.00000642,
+      "name": "KiloCoin",
+      "rank": 160,
+      "ticker": "klc",
+      "usd": 0.070843
+    },
+    "kmd": {
+      "btc": 0.00036808,
+      "name": "Komodo",
+      "rank": 29,
+      "ticker": "kmd",
+      "usd": 4.06
+    },
+    "knc": {
+      "btc": 0.00285124,
+      "name": "KingN Coin",
+      "rank": 656,
+      "ticker": "knc",
+      "usd": 31.45
+    },
+    "kobo": {
+      "btc": 0.00000525,
+      "name": "Kobocoin",
+      "rank": 327,
+      "ticker": "kobo",
+      "usd": 0.057867
+    },
+    "kore": {
+      "btc": 0.00034088,
+      "name": "Kore",
+      "rank": 192,
+      "ticker": "kore",
+      "usd": 3.76
+    },
+    "krb": {
+      "btc": 0.00009338,
+      "name": "Karbo",
+      "rank": 221,
+      "ticker": "krb",
+      "usd": 1.03
+    },
+    "krone": {
+      "btc": 0.00000210,
+      "name": "Kronecoin",
+      "rank": 477,
+      "ticker": "krone",
+      "usd": 0.02317
+    },
+    "kurt": {
+      "btc": 7.9E-7,
+      "name": "Kurrent",
+      "rank": 397,
+      "ticker": "kurt",
+      "usd": 0.008689
+    },
+    "kush": {
+      "btc": 0.00000720,
+      "name": "KushCoin",
+      "rank": 415,
+      "ticker": "kush",
+      "usd": 0.079449
+    },
+    "kzc": {
+      "btc": 0.00029011,
+      "name": "Kzcash",
+      "rank": 747,
+      "ticker": "kzc",
+      "usd": 3.2
+    },
+    "lana": {
+      "btc": 1.1E-7,
+      "name": "LanaCoin",
+      "rank": 348,
+      "ticker": "lana",
+      "usd": 0.001214
+    },
+    "laz": {
+      "btc": 1.4E-7,
+      "name": "Lazaruscoin",
+      "rank": 888,
+      "ticker": "laz",
+      "usd": 0.001545
+    },
+    "lbc": {
+      "btc": 0.00004221,
+      "name": "LBRY Credits",
+      "rank": 71,
+      "ticker": "lbc",
+      "usd": 0.465583
+    },
+    "lbtc": {
+      "btc": 0.03446325,
+      "name": "Lightning Bit...",
+      "rank": 711,
+      "ticker": "lbtc",
+      "usd": 380.14
+    },
+    "lcc": {
+      "btc": 0.00009973,
+      "name": "Litecoin Cash",
+      "rank": 726,
+      "ticker": "lcc",
+      "usd": 1.1
+    },
+    "lcp": {
+      "btc": 0.00004001,
+      "name": "Litecoin Plus",
+      "rank": 402,
+      "ticker": "lcp",
+      "usd": 0.441329
+    },
+    "ldcn": {
+      "btc": 5.9E-7,
+      "name": "LandCoin",
+      "rank": 827,
+      "ticker": "ldcn",
+      "usd": 0.00651
+    },
+    "ldoge": {
+      "btc": 1E-8,
+      "name": "LiteDoge",
+      "rank": 301,
+      "ticker": "ldoge",
+      "usd": 0.000144
+    },
+    "lea": {
+      "btc": 1.0E-7,
+      "name": "LeaCoin",
+      "rank": 427,
+      "ticker": "lea",
+      "usd": 0.001103
+    },
+    "leaf": {
+      "btc": 1E-8,
+      "name": "LeafCoin",
+      "rank": 511,
+      "ticker": "leaf",
+      "usd": 0.00011
+    },
+    "leo": {
+      "btc": 0.00002594,
+      "name": "LEOcoin",
+      "rank": 109,
+      "ticker": "leo",
+      "usd": 0.286107
+    },
+    "lepen": {
+      "btc": 5E-8,
+      "name": "LePen",
+      "rank": 745,
+      "ticker": "lepen",
+      "usd": 0.000552
+    },
+    "let": {
+      "btc": 0.00000591,
+      "name": "LinkEye",
+      "rank": 709,
+      "ticker": "let",
+      "usd": 0.065137
+    },
+    "levo": {
+      "btc": 3.2E-7,
+      "name": "Levocoin",
+      "rank": 829,
+      "ticker": "levo",
+      "usd": 0.003531
+    },
+    "linda": {
+      "btc": 1.2E-7,
+      "name": "Linda",
+      "rank": 171,
+      "ticker": "linda",
+      "usd": 0.001347
+    },
+    "linx": {
+      "btc": 0.00001209,
+      "name": "Linx",
+      "rank": 294,
+      "ticker": "linx",
+      "usd": 0.133303
+    },
+    "lir": {
+      "btc": 1.1E-7,
+      "name": "LetItRide",
+      "rank": 675,
+      "ticker": "lir",
+      "usd": 0.001214
+    },
+    "lkc": {
+      "btc": 3E-8,
+      "name": "LinkedCoin",
+      "rank": 786,
+      "ticker": "lkc",
+      "usd": 0.000331
+    },
+    "lkk": {
+      "btc": 0.00001278,
+      "name": "Lykke",
+      "rank": 93,
+      "ticker": "lkk",
+      "usd": 0.140996
+    },
+    "lmc": {
+      "btc": 0.00000607,
+      "name": "LoMoCoin",
+      "rank": 152,
+      "ticker": "lmc",
+      "usd": 0.066977
+    },
+    "log": {
+      "btc": 0.00001744,
+      "name": "Woodcoin",
+      "rank": 323,
+      "ticker": "log",
+      "usd": 0.19242
+    },
+    "lsk": {
+      "btc": 0.00190566,
+      "name": "Lisk",
+      "rank": 15,
+      "ticker": "lsk",
+      "usd": 21.02
+    },
+    "ltb": {
+      "btc": 0.00004011,
+      "name": "LiteBar",
+      "rank": 423,
+      "ticker": "ltb",
+      "usd": 0.442433
+    },
+    "ltc": {
+      "btc": 0.01939657,
+      "name": "Litecoin",
+      "rank": 5,
+      "ticker": "ltc",
+      "usd": 213.95
+    },
+    "ltcr": {
+      "btc": 3.3E-7,
+      "name": "Litecred",
+      "rank": 628,
+      "ticker": "ltcr",
+      "usd": 0.003641
+    },
+    "ltcu": {
+      "btc": 0.00001008,
+      "name": "LiteCoin Ultra",
+      "rank": 484,
+      "ticker": "ltcu",
+      "usd": 0.111233
+    },
+    "lth": {
+      "btc": 1.0E-7,
+      "name": "LAthaan",
+      "rank": 904,
+      "ticker": "lth",
+      "usd": 0.001054
+    },
+    "luna": {
+      "btc": 0.00000988,
+      "name": "Luna Coin",
+      "rank": 604,
+      "ticker": "luna",
+      "usd": 0.108928
+    },
+    "lux": {
+      "btc": 0.00134357,
+      "name": "LUXCoin",
+      "rank": 140,
+      "ticker": "lux",
+      "usd": 14.82
+    },
+    "lvps": {
+      "btc": 3.1E-7,
+      "name": "LevoPlus",
+      "rank": 699,
+      "ticker": "lvps",
+      "usd": 0.00342
+    },
+    "mac": {
+      "btc": 0.00000733,
+      "name": "Machinecoin",
+      "rank": 319,
+      "ticker": "mac",
+      "usd": 0.080892
+    },
+    "mad": {
+      "btc": 2E-8,
+      "name": "SatoshiMadness",
+      "rank": 565,
+      "ticker": "mad",
+      "usd": 0.000221
+    },
+    "mag": {
+      "btc": 0.00001900,
+      "name": "Magnet",
+      "rank": 267,
+      "ticker": "mag",
+      "usd": 0.209568
+    },
+    "mage": {
+      "btc": 0.00003602,
+      "name": "MagicCoin",
+      "rank": 285,
+      "ticker": "mage",
+      "usd": 0.397307
+    },
+    "magn": {
+      "btc": 0.00004101,
+      "name": "Magnetcoin",
+      "rank": 815,
+      "ticker": "magn",
+      "usd": 0.452363
+    },
+    "manna": {
+      "btc": 0.00000158,
+      "name": "Manna",
+      "rank": 538,
+      "ticker": "manna",
+      "usd": 0.017433
+    },
+    "mao": {
+      "btc": 0.00000500,
+      "name": "Mao Zedong",
+      "rank": 435,
+      "ticker": "mao",
+      "usd": 0.055166
+    },
+    "mar": {
+      "btc": 0.00000693,
+      "name": "Marijuanacoin",
+      "rank": 479,
+      "ticker": "mar",
+      "usd": 0.07646
+    },
+    "mars": {
+      "btc": 0.00000131,
+      "name": "Marscoin",
+      "rank": 567,
+      "ticker": "mars",
+      "usd": 0.014453
+    },
+    "marx": {
+      "btc": 2.2E-7,
+      "name": "MarxCoin",
+      "rank": 788,
+      "ticker": "marx",
+      "usd": 0.002401
+    },
+    "max": {
+      "btc": 0.00000265,
+      "name": "MaxCoin",
+      "rank": 516,
+      "ticker": "max",
+      "usd": 0.029238
+    },
+    "may": {
+      "btc": 3.4E-7,
+      "name": "Theresa May Coin",
+      "rank": 625,
+      "ticker": "may",
+      "usd": 0.003796
+    },
+    "mbl": {
+      "btc": 4E-8,
+      "name": "MobileCash",
+      "rank": 877,
+      "ticker": "mbl",
+      "usd": 0.000441
+    },
+    "mcrn": {
+      "btc": 1.7E-7,
+      "name": "MACRON",
+      "rank": 374,
+      "ticker": "mcrn",
+      "usd": 0.001884
+    },
+    "mdc": {
+      "btc": 0.00001228,
+      "name": "Madcoin",
+      "rank": 454,
+      "ticker": "mdc",
+      "usd": 0.135488
+    },
+    "mec": {
+      "btc": 0.00000269,
+      "name": "Megacoin",
+      "rank": 345,
+      "ticker": "mec",
+      "usd": 0.029716
+    },
+    "meme": {
+      "btc": 0.00003100,
+      "name": "Memetic / Pep...",
+      "rank": 196,
+      "ticker": "meme",
+      "usd": 0.341987
+    },
+    "metal": {
+      "btc": 0.00000162,
+      "name": "MetalCoin",
+      "rank": 519,
+      "ticker": "metal",
+      "usd": 0.017874
+    },
+    "mgc": {
+      "btc": 0.00001356,
+      "name": "MergeCoin",
+      "rank": 727,
+      "ticker": "mgc",
+      "usd": 0.149611
+    },
+    "mgm": {
+      "btc": 2.5E-7,
+      "name": "Magnum",
+      "rank": 698,
+      "ticker": "mgm",
+      "usd": 0.002758
+    },
+    "milo": {
+      "btc": 6.9E-7,
+      "name": "MiloCoin",
+      "rank": 639,
+      "ticker": "milo",
+      "usd": 0.007572
+    },
+    "mint": {
+      "btc": 1.5E-7,
+      "name": "Mintcoin",
+      "rank": 90,
+      "ticker": "mint",
+      "usd": 0.001641
+    },
+    "miota": {
+      "btc": 0.00018041,
+      "name": "IOTA",
+      "rank": 9,
+      "ticker": "miota",
+      "usd": 1.99
+    },
+    "mlm": {
+      "btc": 0.00001145,
+      "name": "MktCoin",
+      "rank": 716,
+      "ticker": "mlm",
+      "usd": 0.126277
+    },
+    "mmxvi": {
+      "btc": 4.3E-7,
+      "name": "MMXVI",
+      "rank": 901,
+      "ticker": "mmxvi",
+      "usd": 0.004796
+    },
+    "mnc": {
+      "btc": 0.00000605,
+      "name": "Mincoin",
+      "rank": 581,
+      "ticker": "mnc",
+      "usd": 0.066772
+    },
+    "mnd": {
+      "btc": 4.6E-7,
+      "name": "MindCoin",
+      "rank": 640,
+      "ticker": "mnd",
+      "usd": 0.005075
+    },
+    "mnm": {
+      "btc": 0.00000656,
+      "name": "Mineum",
+      "rank": 382,
+      "ticker": "mnm",
+      "usd": 0.072403
+    },
+    "mntp": {
+      "btc": 0.00028014,
+      "name": "GoldMint",
+      "rank": 227,
+      "ticker": "mntp",
+      "usd": 3.09
+    },
+    "mnx": {
+      "btc": 0.00217129,
+      "name": "MinexCoin",
+      "rank": 64,
+      "ticker": "mnx",
+      "usd": 23.95
+    },
+    "moin": {
+      "btc": 0.00002409,
+      "name": "Moin",
+      "rank": 308,
+      "ticker": "moin",
+      "usd": 0.265715
+    },
+    "mojo": {
+      "btc": 0.00000530,
+      "name": "MojoCoin",
+      "rank": 380,
+      "ticker": "mojo",
+      "usd": 0.058419
+    },
+    "mona": {
+      "btc": 0.00050044,
+      "name": "MonaCoin",
+      "rank": 37,
+      "ticker": "mona",
+      "usd": 5.52
+    },
+    "moneta": {
+      "btc": 5E-8,
+      "name": "Moneta",
+      "rank": 880,
+      "ticker": "moneta",
+      "usd": 0.000552
+    },
+    "money": {
+      "btc": 1E-8,
+      "name": "MoneyCoin",
+      "rank": 906,
+      "ticker": "money",
+      "usd": 0.000109
+    },
+    "monk": {
+      "btc": 0.00113143,
+      "name": "Monkey Project",
+      "rank": 198,
+      "ticker": "monk",
+      "usd": 12.48
+    },
+    "moon": {
+      "btc": 1E-8,
+      "name": "Mooncoin",
+      "rank": 102,
+      "ticker": "moon",
+      "usd": 0.000144
+    },
+    "moto": {
+      "btc": 0.00000264,
+      "name": "Motocoin",
+      "rank": 394,
+      "ticker": "moto",
+      "usd": 0.029128
+    },
+    "mrja": {
+      "btc": 0.00003191,
+      "name": "GanjaCoin",
+      "rank": 268,
+      "ticker": "mrja",
+      "usd": 0.35196
+    },
+    "mscn": {
+      "btc": 2.2E-7,
+      "name": "Master Swiscoin",
+      "rank": 485,
+      "ticker": "mscn",
+      "usd": 0.002452
+    },
+    "msd": {
+      "btc": 0.00000190,
+      "name": "MSD",
+      "rank": 730,
+      "ticker": "msd",
+      "usd": 0.020982
+    },
+    "mst": {
+      "btc": 0.00003811,
+      "name": "MustangCoin",
+      "rank": 586,
+      "ticker": "mst",
+      "usd": 0.420366
+    },
+    "mtlmc3": {
+      "btc": 1.2E-7,
+      "name": "Metal Music Coin",
+      "rank": 630,
+      "ticker": "mtlmc3",
+      "usd": 0.001324
+    },
+    "mtnc": {
+      "btc": 0.00000980,
+      "name": "Masternodecoin",
+      "rank": 229,
+      "ticker": "mtnc",
+      "usd": 0.108126
+    },
+    "mue": {
+      "btc": 0.00001412,
+      "name": "MonetaryUnit",
+      "rank": 131,
+      "ticker": "mue",
+      "usd": 0.155732
+    },
+    "muse": {
+      "btc": 0.00014959,
+      "name": "MUSE",
+      "rank": 763,
+      "ticker": "muse",
+      "usd": 1.65
+    },
+    "music": {
+      "btc": 0.00000295,
+      "name": "Musicoin",
+      "rank": 126,
+      "ticker": "music",
+      "usd": 0.032492
+    },
+    "mxt": {
+      "btc": 0.00011967,
+      "name": "MarteXcoin",
+      "rank": 262,
+      "ticker": "mxt",
+      "usd": 1.32
+    },
+    "mzc": {
+      "btc": 4.5E-7,
+      "name": "MAZA",
+      "rank": 230,
+      "ticker": "mzc",
+      "usd": 0.004965
+    },
+    "namo": {
+      "btc": 2E-8,
+      "name": "NamoCoin",
+      "rank": 811,
+      "ticker": "namo",
+      "usd": 0.000221
+    },
+    "nano": {
+      "btc": 0.00155299,
+      "name": "Nano",
+      "rank": 14,
+      "ticker": "nano",
+      "usd": 17.13
+    },
+    "nanox": {
+      "btc": 16.00427912,
+      "name": "Project-X",
+      "rank": 498,
+      "ticker": "nanox",
+      "usd": 176532.0
+    },
+    "nav": {
+      "btc": 0.00017769,
+      "name": "NAV Coin",
+      "rank": 57,
+      "ticker": "nav",
+      "usd": 1.96
+    },
+    "nbit": {
+      "btc": 0.00000122,
+      "name": "netBit",
+      "rank": 856,
+      "ticker": "nbit",
+      "usd": 0.013461
+    },
+    "nebl": {
+      "btc": 0.00144602,
+      "name": "Neblio",
+      "rank": 46,
+      "ticker": "nebl",
+      "usd": 15.95
+    },
+    "neo": {
+      "btc": 0.01178844,
+      "name": "NEO",
+      "rank": 6,
+      "ticker": "neo",
+      "usd": 130.03
+    },
+    "neos": {
+      "btc": 0.00043335,
+      "name": "NeosCoin",
+      "rank": 138,
+      "ticker": "neos",
+      "usd": 4.78
+    },
+    "net": {
+      "btc": 1.7E-7,
+      "name": "NetCoin",
+      "rank": 325,
+      "ticker": "net",
+      "usd": 0.001876
+    },
+    "netko": {
+      "btc": 0.00001526,
+      "name": "Netko",
+      "rank": 367,
+      "ticker": "netko",
+      "usd": 0.168365
+    },
+    "neva": {
+      "btc": 0.00001157,
+      "name": "NevaCoin",
+      "rank": 439,
+      "ticker": "neva",
+      "usd": 0.127647
+    },
+    "nka": {
+      "btc": 2E-8,
+      "name": "IncaKoin",
+      "rank": 284,
+      "ticker": "nka",
+      "usd": 0.000221
+    },
+    "nlc2": {
+      "btc": 0.00001439,
+      "name": "NoLimitCoin",
+      "rank": 99,
+      "ticker": "nlc2",
+      "usd": 0.158753
+    },
+    "nlg": {
+      "btc": 0.00001301,
+      "name": "Gulden",
+      "rank": 78,
+      "ticker": "nlg",
+      "usd": 0.143452
+    },
+    "nmc": {
+      "btc": 0.00023934,
+      "name": "Namecoin",
+      "rank": 92,
+      "ticker": "nmc",
+      "usd": 2.64
+    },
+    "nms": {
+      "btc": 0.00031006,
+      "name": "Numus",
+      "rank": 740,
+      "ticker": "nms",
+      "usd": 3.42
+    },
+    "nobl": {
+      "btc": 8E-8,
+      "name": "NobleCoin",
+      "rank": 306,
+      "ticker": "nobl",
+      "usd": 0.000883
+    },
+    "nodc": {
+      "btc": 8.6E-7,
+      "name": "NodeCoin",
+      "rank": 694,
+      "ticker": "nodc",
+      "usd": 0.009489
+    },
+    "note": {
+      "btc": 0.00000344,
+      "name": "DNotes",
+      "rank": 234,
+      "ticker": "note",
+      "usd": 0.037984
+    },
+    "nro": {
+      "btc": 2.6E-7,
+      "name": "Neuro",
+      "rank": 474,
+      "ticker": "nro",
+      "usd": 0.002869
+    },
+    "ntrn": {
+      "btc": 0.00004061,
+      "name": "Neutron",
+      "rank": 151,
+      "ticker": "ntrn",
+      "usd": 0.447949
+    },
+    "nuko": {
+      "btc": 0.00000257,
+      "name": "Nekonium",
+      "rank": 588,
+      "ticker": "nuko",
+      "usd": 0.028355
+    },
+    "numus": {
+      "btc": 2E-8,
+      "name": "NumusCash",
+      "rank": 839,
+      "ticker": "numus",
+      "usd": 0.000221
+    },
+    "nvc": {
+      "btc": 0.00048503,
+      "name": "Novacoin",
+      "rank": 174,
+      "ticker": "nvc",
+      "usd": 5.35
+    },
+    "nxs": {
+      "btc": 0.00022756,
+      "name": "Nexus",
+      "rank": 53,
+      "ticker": "nxs",
+      "usd": 2.51
+    },
+    "nxt": {
+      "btc": 0.00001870,
+      "name": "Nxt",
+      "rank": 45,
+      "ticker": "nxt",
+      "usd": 0.206232
+    },
+    "nyan": {
+      "btc": 3.2E-7,
+      "name": "Nyancoin",
+      "rank": 343,
+      "ticker": "nyan",
+      "usd": 0.00353
+    },
+    "nyc": {
+      "btc": 2E-8,
+      "name": "NewYorkCoin",
+      "rank": 120,
+      "ticker": "nyc",
+      "usd": 0.000177
+    },
+    "oc": {
+      "btc": 0.00000129,
+      "name": "OceanChain",
+      "rank": 708,
+      "ticker": "oc",
+      "usd": 0.014215
+    },
+    "ocow": {
+      "btc": 0E-8,
+      "name": "OCOW",
+      "rank": 912,
+      "ticker": "ocow",
+      "usd": 1.7e-05
+    },
+    "odn": {
+      "btc": 0.00002108,
+      "name": "Obsidian",
+      "rank": 219,
+      "ticker": "odn",
+      "usd": 0.232499
+    },
+    "of": {
+      "btc": 2.8E-7,
+      "name": "OFCOIN",
+      "rank": 712,
+      "ticker": "of",
+      "usd": 0.00305
+    },
+    "off": {
+      "btc": 0.00000561,
+      "name": "Cthulhu Offer...",
+      "rank": 609,
+      "ticker": "off",
+      "usd": 0.061896
+    },
+    "ok": {
+      "btc": 0.00002836,
+      "name": "OKCash",
+      "rank": 121,
+      "ticker": "ok",
+      "usd": 0.3128
+    },
+    "omc": {
+      "btc": 0.00002639,
+      "name": "Omicron",
+      "rank": 824,
+      "ticker": "omc",
+      "usd": 0.291057
+    },
+    "omni": {
+      "btc": 0.00357923,
+      "name": "Omni",
+      "rank": 123,
+      "ticker": "omni",
+      "usd": 39.48
+    },
+    "onion": {
+      "btc": 0.00038168,
+      "name": "DeepOnion",
+      "rank": 85,
+      "ticker": "onion",
+      "usd": 4.21
+    },
+    "onx": {
+      "btc": 0.00000117,
+      "name": "Onix",
+      "rank": 432,
+      "ticker": "onx",
+      "usd": 0.012913
+    },
+    "op": {
+      "btc": 1.2E-7,
+      "name": "Operand",
+      "rank": 902,
+      "ticker": "op",
+      "usd": 0.001319
+    },
+    "opal": {
+      "btc": 0.00000558,
+      "name": "Opal",
+      "rank": 529,
+      "ticker": "opal",
+      "usd": 0.061528
+    },
+    "opc": {
+      "btc": 0.00000167,
+      "name": "OP Coin",
+      "rank": 290,
+      "ticker": "opc",
+      "usd": 0.018425
+    },
+    "opes": {
+      "btc": 4.2E-7,
+      "name": "Opescoin",
+      "rank": 851,
+      "ticker": "opes",
+      "usd": 0.004634
+    },
+    "orb": {
+      "btc": 0.00004831,
+      "name": "Orbitcoin",
+      "rank": 318,
+      "ticker": "orb",
+      "usd": 0.532905
+    },
+    "ore": {
+      "btc": 0.00009247,
+      "name": "Galactrum",
+      "rank": 761,
+      "ticker": "ore",
+      "usd": 1.02
+    },
+    "orly": {
+      "btc": 1.5E-7,
+      "name": "Orlycoin",
+      "rank": 659,
+      "ticker": "orly",
+      "usd": 0.001655
+    },
+    "os76": {
+      "btc": 0.00000619,
+      "name": "OsmiumCoin",
+      "rank": 657,
+      "ticker": "os76",
+      "usd": 0.068296
+    },
+    "oxy": {
+      "btc": 0.00001348,
+      "name": "Oxycoin",
+      "rank": 157,
+      "ticker": "oxy",
+      "usd": 0.148678
+    },
+    "p7c": {
+      "btc": 6E-8,
+      "name": "P7Coin",
+      "rank": 688,
+      "ticker": "p7c",
+      "usd": 0.000662
+    },
+    "pac": {
+      "btc": 0E-8,
+      "name": "PACcoin",
+      "rank": 506,
+      "ticker": "pac",
+      "usd": 3.8e-05
+    },
+    "pak": {
+      "btc": 0.00000130,
+      "name": "Pakcoin",
+      "rank": 378,
+      "ticker": "pak",
+      "usd": 0.01436
+    },
+    "part": {
+      "btc": 0.00246956,
+      "name": "Particl",
+      "rank": 43,
+      "ticker": "part",
+      "usd": 27.24
+    },
+    "pasc": {
+      "btc": 0.00013327,
+      "name": "Pascal Coin",
+      "rank": 111,
+      "ticker": "pasc",
+      "usd": 1.47
+    },
+    "pasl": {
+      "btc": 0.00000753,
+      "name": "Pascal Lite",
+      "rank": 416,
+      "ticker": "pasl",
+      "usd": 0.08308
+    },
+    "payp": {
+      "btc": 1E-8,
+      "name": "PayPeer",
+      "rank": 854,
+      "ticker": "payp",
+      "usd": 0.00011
+    },
+    "pcn": {
+      "btc": 0E-8,
+      "name": "PeepCoin",
+      "rank": 778,
+      "ticker": "pcn",
+      "usd": 1.5e-05
+    },
+    "pcoin": {
+      "btc": 0.00003022,
+      "name": "Pioneer Coin",
+      "rank": 372,
+      "ticker": "pcoin",
+      "usd": 0.333314
+    },
+    "pcs": {
+      "btc": 0.00001626,
+      "name": "Pabyosi Coin ...",
+      "rank": 871,
+      "ticker": "pcs",
+      "usd": 0.179332
+    },
+    "pdg": {
+      "btc": 1E-8,
+      "name": "PinkDog",
+      "rank": 837,
+      "ticker": "pdg",
+      "usd": 0.00011
+    },
+    "pex": {
+      "btc": 0.00000236,
+      "name": "PosEx",
+      "rank": 655,
+      "ticker": "pex",
+      "usd": 0.026038
+    },
+    "pho": {
+      "btc": 1E-8,
+      "name": "Photon",
+      "rank": 297,
+      "ticker": "pho",
+      "usd": 0.000103
+    },
+    "phr": {
+      "btc": 0.00027923,
+      "name": "Phore",
+      "rank": 124,
+      "ticker": "phr",
+      "usd": 3.08
+    },
+    "phs": {
+      "btc": 0.00000596,
+      "name": "Philosopher S...",
+      "rank": 422,
+      "ticker": "phs",
+      "usd": 0.065758
+    },
+    "pie": {
+      "btc": 4.8E-7,
+      "name": "PIECoin",
+      "rank": 661,
+      "ticker": "pie",
+      "usd": 0.005296
+    },
+    "piggy": {
+      "btc": 2.5E-7,
+      "name": "Piggycoin",
+      "rank": 335,
+      "ticker": "piggy",
+      "usd": 0.002758
+    },
+    "pink": {
+      "btc": 0.00000308,
+      "name": "PinkCoin",
+      "rank": 164,
+      "ticker": "pink",
+      "usd": 0.03402
+    },
+    "pirl": {
+      "btc": 0.00008598,
+      "name": "Pirl",
+      "rank": 175,
+      "ticker": "pirl",
+      "usd": 0.948349
+    },
+    "pivx": {
+      "btc": 0.00053942,
+      "name": "PIVX",
+      "rank": 36,
+      "ticker": "pivx",
+      "usd": 5.95
+    },
+    "pizza": {
+      "btc": 2.3E-7,
+      "name": "PizzaCoin",
+      "rank": 701,
+      "ticker": "pizza",
+      "usd": 0.002578
+    },
+    "pkb": {
+      "btc": 0.00006743,
+      "name": "ParkByte",
+      "rank": 271,
+      "ticker": "pkb",
+      "usd": 0.743798
+    },
+    "placo": {
+      "btc": 1.9E-7,
+      "name": "PlayerCoin",
+      "rank": 490,
+      "ticker": "placo",
+      "usd": 0.002096
+    },
+    "plc": {
+      "btc": 3.2E-7,
+      "name": "Polcoin",
+      "rank": 584,
+      "ticker": "plc",
+      "usd": 0.003531
+    },
+    "plnc": {
+      "btc": 2.8E-7,
+      "name": "PLNcoin",
+      "rank": 668,
+      "ticker": "plnc",
+      "usd": 0.003089
+    },
+    "pnd": {
+      "btc": 3E-8,
+      "name": "Pandacoin",
+      "rank": 167,
+      "ticker": "pnd",
+      "usd": 0.000386
+    },
+    "pnx": {
+      "btc": 0.00000243,
+      "name": "Phantomx",
+      "rank": 784,
+      "ticker": "pnx",
+      "usd": 0.026797
+    },
+    "poa": {
+      "btc": 0.00005371,
+      "name": "POA Network",
+      "rank": 707,
+      "ticker": "poa",
+      "usd": 0.592407
+    },
+    "poke": {
+      "btc": 1E-8,
+      "name": "PokeCoin",
+      "rank": 893,
+      "ticker": "poke",
+      "usd": 0.00011
+    },
+    "polis": {
+      "btc": 0.00097640,
+      "name": "Polis",
+      "rank": 172,
+      "ticker": "polis",
+      "usd": 10.77
+    },
+    "ponzi": {
+      "btc": 0.00000607,
+      "name": "PonziCoin",
+      "rank": 662,
+      "ticker": "ponzi",
+      "usd": 0.066972
+    },
+    "pop": {
+      "btc": 4E-8,
+      "name": "PopularCoin",
+      "rank": 324,
+      "ticker": "pop",
+      "usd": 0.000443
+    },
+    "post": {
+      "btc": 0.00000255,
+      "name": "PostCoin",
+      "rank": 413,
+      "ticker": "post",
+      "usd": 0.028126
+    },
+    "posw": {
+      "btc": 0.00005092,
+      "name": "PoSW Coin",
+      "rank": 118,
+      "ticker": "posw",
+      "usd": 0.561687
+    },
+    "pot": {
+      "btc": 0.00001544,
+      "name": "PotCoin",
+      "rank": 94,
+      "ticker": "pot",
+      "usd": 0.170265
+    },
+    "ppc": {
+      "btc": 0.00027923,
+      "name": "Peercoin",
+      "rank": 68,
+      "ticker": "ppc",
+      "usd": 3.08
+    },
+    "ppy": {
+      "btc": 0.00033181,
+      "name": "Peerplays",
+      "rank": 155,
+      "ticker": "ppy",
+      "usd": 3.66
+    },
+    "pr": {
+      "btc": 0.00023934,
+      "name": "Prototanium",
+      "rank": 557,
+      "ticker": "pr",
+      "usd": 2.64
+    },
+    "prc": {
+      "btc": 7E-8,
+      "name": "PRCoin",
+      "rank": 497,
+      "ticker": "prc",
+      "usd": 0.000772
+    },
+    "primu": {
+      "btc": 3E-8,
+      "name": "Primulon",
+      "rank": 865,
+      "ticker": "primu",
+      "usd": 0.000353
+    },
+    "prm": {
+      "btc": 1.9E-7,
+      "name": "PrismChain",
+      "rank": 892,
+      "ticker": "prm",
+      "usd": 0.002096
+    },
+    "prn": {
+      "btc": 1E-8,
+      "name": "Protean",
+      "rank": 785,
+      "ticker": "prn",
+      "usd": 5.8e-05
+    },
+    "proc": {
+      "btc": 0.00000314,
+      "name": "ProCurrency",
+      "rank": 275,
+      "ticker": "proc",
+      "usd": 0.034634
+    },
+    "prx": {
+      "btc": 7.0E-7,
+      "name": "Printerium",
+      "rank": 637,
+      "ticker": "prx",
+      "usd": 0.007762
+    },
+    "psy": {
+      "btc": 0.00000666,
+      "name": "Psilocybin",
+      "rank": 817,
+      "ticker": "psy",
+      "usd": 0.073481
+    },
+    "ptc": {
+      "btc": 0.00000495,
+      "name": "Pesetacoin",
+      "rank": 199,
+      "ticker": "ptc",
+      "usd": 0.054645
+    },
+    "pulse": {
+      "btc": 4.8E-7,
+      "name": "Pulse",
+      "rank": 646,
+      "ticker": "pulse",
+      "usd": 0.005296
+    },
+    "pura": {
+      "btc": 0.00006187,
+      "name": "Pura",
+      "rank": 58,
+      "ticker": "pura",
+      "usd": 0.682465
+    },
+    "pure": {
+      "btc": 0.00007352,
+      "name": "Pure",
+      "rank": 287,
+      "ticker": "pure",
+      "usd": 0.810943
+    },
+    "put": {
+      "btc": 0.00000104,
+      "name": "PutinCoin",
+      "rank": 255,
+      "ticker": "put",
+      "usd": 0.011481
+    },
+    "px": {
+      "btc": 3.4E-7,
+      "name": "PX",
+      "rank": 574,
+      "ticker": "px",
+      "usd": 0.003715
+    },
+    "pxc": {
+      "btc": 8.3E-7,
+      "name": "Phoenixcoin",
+      "rank": 553,
+      "ticker": "pxc",
+      "usd": 0.009158
+    },
+    "pxi": {
+      "btc": 0.00000177,
+      "name": "Prime-XI",
+      "rank": 571,
+      "ticker": "pxi",
+      "usd": 0.019535
+    },
+    "pzm": {
+      "btc": 0.00008660,
+      "name": "PRIZM",
+      "rank": 156,
+      "ticker": "pzm",
+      "usd": 0.955208
+    },
+    "q2c": {
+      "btc": 3.6E-7,
+      "name": "QubitCoin",
+      "rank": 356,
+      "ticker": "q2c",
+      "usd": 0.003972
+    },
+    "qbc": {
+      "btc": 0.00000154,
+      "name": "Quebecoin",
+      "rank": 453,
+      "ticker": "qbc",
+      "usd": 0.016991
+    },
+    "qbic": {
+      "btc": 0.00012330,
+      "name": "Qbic",
+      "rank": 449,
+      "ticker": "qbic",
+      "usd": 1.36
+    },
+    "qbt": {
+      "btc": 5.3E-7,
+      "name": "Cubits",
+      "rank": 797,
+      "ticker": "qbt",
+      "usd": 0.005848
+    },
+    "qcn": {
+      "btc": 0.00000100,
+      "name": "QuazarCoin",
+      "rank": 489,
+      "ticker": "qcn",
+      "usd": 0.011033
+    },
+    "qora": {
+      "btc": 0.00002810,
+      "name": "Qora",
+      "rank": 843,
+      "ticker": "qora",
+      "usd": 0.309925
+    },
+    "qrk": {
+      "btc": 0.00000122,
+      "name": "Quark",
+      "rank": 273,
+      "ticker": "qrk",
+      "usd": 0.013484
+    },
+    "qtl": {
+      "btc": 0.00000311,
+      "name": "Quatloo",
+      "rank": 587,
+      "ticker": "qtl",
+      "usd": 0.034313
+    },
+    "qtum": {
+      "btc": 0.00244508,
+      "name": "Qtum",
+      "rank": 16,
+      "ticker": "qtum",
+      "usd": 26.97
+    },
+    "rads": {
+      "btc": 0.00059926,
+      "name": "Radium",
+      "rank": 122,
+      "ticker": "rads",
+      "usd": 6.61
+    },
+    "rain": {
+      "btc": 0.00000212,
+      "name": "Condensate",
+      "rank": 278,
+      "ticker": "rain",
+      "usd": 0.023432
+    },
+    "rbbt": {
+      "btc": 0E-8,
+      "name": "RabbitCoin",
+      "rank": 794,
+      "ticker": "rbbt",
+      "usd": 2.8e-05
+    },
+    "rbies": {
+      "btc": 0.00000333,
+      "name": "Rubies",
+      "rank": 570,
+      "ticker": "rbies",
+      "usd": 0.036758
+    },
+    "rbt": {
+      "btc": 4.0E-7,
+      "name": "Rimbit",
+      "rank": 364,
+      "ticker": "rbt",
+      "usd": 0.004405
+    },
+    "rby": {
+      "btc": 0.00007191,
+      "name": "Rubycoin",
+      "rank": 128,
+      "ticker": "rby",
+      "usd": 0.793176
+    },
+    "rc": {
+      "btc": 0.00009157,
+      "name": "RussiaCoin",
+      "rank": 185,
+      "ticker": "rc",
+      "usd": 1.01
+    },
+    "rcn": {
+      "btc": 1E-8,
+      "name": "Rcoin",
+      "rank": 887,
+      "ticker": "rcn",
+      "usd": 0.00011
+    },
+    "rdd": {
+      "btc": 8.5E-7,
+      "name": "ReddCoin",
+      "rank": 40,
+      "ticker": "rdd",
+      "usd": 0.009379
+    },
+    "rec": {
+      "btc": 0.00003023,
+      "name": "Regalcoin",
+      "rank": 250,
+      "ticker": "rec",
+      "usd": 0.333391
+    },
+    "red": {
+      "btc": 4.1E-7,
+      "name": "RedCoin",
+      "rank": 440,
+      "ticker": "red",
+      "usd": 0.004524
+    },
+    "ree": {
+      "btc": 1E-8,
+      "name": "ReeCoin",
+      "rank": 458,
+      "ticker": "ree",
+      "usd": 8.5e-05
+    },
+    "rega": {
+      "btc": 1.1E-7,
+      "name": "Regacoin",
+      "rank": 891,
+      "ticker": "rega",
+      "usd": 0.001214
+    },
+    "rhfc": {
+      "btc": 7E-8,
+      "name": "RHFCoin",
+      "rank": 864,
+      "ticker": "rhfc",
+      "usd": 0.000772
+    },
+    "ric": {
+      "btc": 0.00001504,
+      "name": "Riecoin",
+      "rank": 204,
+      "ticker": "ric",
+      "usd": 0.16594
+    },
+    "richx": {
+      "btc": 8.0E-7,
+      "name": "RichCoin",
+      "rank": 903,
+      "ticker": "richx",
+      "usd": 0.008782
+    },
+    "ride": {
+      "btc": 6E-8,
+      "name": "Ride My Car",
+      "rank": 653,
+      "ticker": "ride",
+      "usd": 0.000662
+    },
+    "rise": {
+      "btc": 0.00003988,
+      "name": "Rise",
+      "rank": 80,
+      "ticker": "rise",
+      "usd": 0.439931
+    },
+    "rmc": {
+      "btc": 0.93876866,
+      "name": "Russian Miner...",
+      "rank": 150,
+      "ticker": "rmc",
+      "usd": 10354.9
+    },
+    "rns": {
+      "btc": 0.00000524,
+      "name": "Renos",
+      "rank": 514,
+      "ticker": "rns",
+      "usd": 0.057853
+    },
+    "roofs": {
+      "btc": 4.2E-7,
+      "name": "Roofs",
+      "rank": 391,
+      "ticker": "roofs",
+      "usd": 0.004634
+    },
+    "royal": {
+      "btc": 5.1E-7,
+      "name": "RoyalCoin",
+      "rank": 874,
+      "ticker": "royal",
+      "usd": 0.005627
+    },
+    "rpc": {
+      "btc": 0.00002135,
+      "name": "RonPaulCoin",
+      "rank": 599,
+      "ticker": "rpc",
+      "usd": 0.235552
+    },
+    "rsgp": {
+      "btc": 0.00205343,
+      "name": "RSGPcoin",
+      "rank": 682,
+      "ticker": "rsgp",
+      "usd": 22.65
+    },
+    "rubit": {
+      "btc": 5.3E-7,
+      "name": "RubleBit",
+      "rank": 861,
+      "ticker": "rubit",
+      "usd": 0.005848
+    },
+    "runners": {
+      "btc": 5E-8,
+      "name": "Runners",
+      "rank": 833,
+      "ticker": "runners",
+      "usd": 0.000552
+    },
+    "rup": {
+      "btc": 0.00001515,
+      "name": "Rupee",
+      "rank": 263,
+      "ticker": "rup",
+      "usd": 0.16706
+    },
+    "rupx": {
+      "btc": 6.0E-7,
+      "name": "Rupaya [OLD]",
+      "rank": 834,
+      "ticker": "rupx",
+      "usd": 0.00662
+    },
+    "sac": {
+      "btc": 0.00000800,
+      "name": "SACoin",
+      "rank": 551,
+      "ticker": "sac",
+      "usd": 0.088266
+    },
+    "saga": {
+      "btc": 0.00015321,
+      "name": "SagaCoin",
+      "rank": 426,
+      "ticker": "saga",
+      "usd": 1.69
+    },
+    "sak": {
+      "btc": 6.2E-7,
+      "name": "Sharkcoin",
+      "rank": 848,
+      "ticker": "sak",
+      "usd": 0.006835
+    },
+    "sandg": {
+      "btc": 0.00000666,
+      "name": "Save and Gain",
+      "rank": 456,
+      "ticker": "sandg",
+      "usd": 0.073481
+    },
+    "sbc": {
+      "btc": 5.4E-7,
+      "name": "StrikeBitClub",
+      "rank": 741,
+      "ticker": "sbc",
+      "usd": 0.005958
+    },
+    "sbd": {
+      "btc": 0.00034088,
+      "name": "Steem Dollars",
+      "rank": 95,
+      "ticker": "sbd",
+      "usd": 3.76
+    },
+    "sbtc": {
+      "btc": 0.00173975,
+      "name": "Super Bitcoin",
+      "rank": 721,
+      "ticker": "sbtc",
+      "usd": 19.19
+    },
+    "sc": {
+      "btc": 0.00000201,
+      "name": "Siacoin",
+      "rank": 23,
+      "ticker": "sc",
+      "usd": 0.022158
+    },
+    "score": {
+      "btc": 0.00000298,
+      "name": "Scorecoin",
+      "rank": 333,
+      "ticker": "score",
+      "usd": 0.032822
+    },
+    "scrt": {
+      "btc": 0.00000500,
+      "name": "SecretCoin",
+      "rank": 593,
+      "ticker": "scrt",
+      "usd": 0.055166
+    },
+    "scs": {
+      "btc": 0.00004321,
+      "name": "Speedcash",
+      "rank": 613,
+      "ticker": "scs",
+      "usd": 0.476636
+    },
+    "sdc": {
+      "btc": 0.00002651,
+      "name": "ShadowCash",
+      "rank": 513,
+      "ticker": "sdc",
+      "usd": 0.292381
+    },
+    "sdp": {
+      "btc": 0.00001512,
+      "name": "SydPak",
+      "rank": 687,
+      "ticker": "sdp",
+      "usd": 0.166822
+    },
+    "send": {
+      "btc": 0.00001439,
+      "name": "Social Send",
+      "rank": 232,
+      "ticker": "send",
+      "usd": 0.158671
+    },
+    "seq": {
+      "btc": 0.00002069,
+      "name": "Sequence",
+      "rank": 176,
+      "ticker": "seq",
+      "usd": 0.228167
+    },
+    "sfc": {
+      "btc": 7.4E-7,
+      "name": "Solarflarecoin",
+      "rank": 626,
+      "ticker": "sfc",
+      "usd": 0.008162
+    },
+    "sfe": {
+      "btc": 1E-8,
+      "name": "SafeCoin",
+      "rank": 787,
+      "ticker": "sfe",
+      "usd": 0.00011
+    },
+    "sh": {
+      "btc": 0.00000118,
+      "name": "Shilling",
+      "rank": 643,
+      "ticker": "sh",
+      "usd": 0.013019
+    },
+    "sha": {
+      "btc": 4.0E-7,
+      "name": "SHACoin",
+      "rank": 772,
+      "ticker": "sha",
+      "usd": 0.004413
+    },
+    "shell": {
+      "btc": 0.00000500,
+      "name": "ShellCoin",
+      "rank": 822,
+      "ticker": "shell",
+      "usd": 0.055166
+    },
+    "shift": {
+      "btc": 0.00032547,
+      "name": "Shift",
+      "rank": 89,
+      "ticker": "shift",
+      "usd": 3.59
+    },
+    "shnd": {
+      "btc": 0E-8,
+      "name": "StrongHands",
+      "rank": 742,
+      "ticker": "shnd",
+      "usd": 8.2e-07
+    },
+    "shorty": {
+      "btc": 0.00000141,
+      "name": "Shorty",
+      "rank": 517,
+      "ticker": "shorty",
+      "usd": 0.015557
+    },
+    "sib": {
+      "btc": 0.00021940,
+      "name": "SIBCoin",
+      "rank": 91,
+      "ticker": "sib",
+      "usd": 2.42
+    },
+    "sic": {
+      "btc": 1.6E-7,
+      "name": "Swisscoin",
+      "rank": 743,
+      "ticker": "sic",
+      "usd": 0.001765
+    },
+    "sigma": {
+      "btc": 0.00000398,
+      "name": "SIGMAcoin",
+      "rank": 771,
+      "ticker": "sigma",
+      "usd": 0.043871
+    },
+    "sigt": {
+      "btc": 5.4E-7,
+      "name": "Signatum",
+      "rank": 548,
+      "ticker": "sigt",
+      "usd": 0.005958
+    },
+    "sjw": {
+      "btc": 1.3E-7,
+      "name": "SJWCoin",
+      "rank": 798,
+      "ticker": "sjw",
+      "usd": 0.001434
+    },
+    "skc": {
+      "btc": 0.00001201,
+      "name": "Skeincoin",
+      "rank": 313,
+      "ticker": "skc",
+      "usd": 0.132509
+    },
+    "skr": {
+      "btc": 5.1E-7,
+      "name": "Sakuracoin",
+      "rank": 819,
+      "ticker": "skr",
+      "usd": 0.005627
+    },
+    "skull": {
+      "btc": 3.9E-7,
+      "name": "Pirate Blocks",
+      "rank": 876,
+      "ticker": "skull",
+      "usd": 0.004263
+    },
+    "sky": {
+      "btc": 0.00166723,
+      "name": "Skycoin",
+      "rank": 52,
+      "ticker": "sky",
+      "usd": 18.39
+    },
+    "slevin": {
+      "btc": 1.8E-7,
+      "name": "Slevin",
+      "rank": 618,
+      "ticker": "slevin",
+      "usd": 0.001986
+    },
+    "slfi": {
+      "btc": 1E-8,
+      "name": "Selfiecoin",
+      "rank": 697,
+      "ticker": "slfi",
+      "usd": 0.00011
+    },
+    "slg": {
+      "btc": 0.00001443,
+      "name": "Sterlingcoin",
+      "rank": 544,
+      "ticker": "slg",
+      "usd": 0.159161
+    },
+    "sloth": {
+      "btc": 0E-8,
+      "name": "Slothcoin",
+      "rank": 831,
+      "ticker": "sloth",
+      "usd": 4.7e-05
+    },
+    "slr": {
+      "btc": 0.00004193,
+      "name": "SolarCoin",
+      "rank": 135,
+      "ticker": "slr",
+      "usd": 0.462498
+    },
+    "sls": {
+      "btc": 0.00732709,
+      "name": "SaluS",
+      "rank": 66,
+      "ticker": "sls",
+      "usd": 80.82
+    },
+    "smart": {
+      "btc": 0.00002339,
+      "name": "SmartCash",
+      "rank": 48,
+      "ticker": "smart",
+      "usd": 0.257983
+    },
+    "smc": {
+      "btc": 0.00000363,
+      "name": "SmartCoin",
+      "rank": 528,
+      "ticker": "smc",
+      "usd": 0.040007
+    },
+    "smly": {
+      "btc": 1E-8,
+      "name": "SmileyCoin",
+      "rank": 289,
+      "ticker": "smly",
+      "usd": 0.000101
+    },
+    "snrg": {
+      "btc": 0.00018404,
+      "name": "Synergy",
+      "rank": 203,
+      "ticker": "snrg",
+      "usd": 2.03
+    },
+    "socc": {
+      "btc": 0.00000178,
+      "name": "SocialCoin",
+      "rank": 686,
+      "ticker": "socc",
+      "usd": 0.019639
+    },
+    "soil": {
+      "btc": 0.00000228,
+      "name": "SOILcoin",
+      "rank": 615,
+      "ticker": "soil",
+      "usd": 0.025156
+    },
+    "soj": {
+      "btc": 0.00002650,
+      "name": "Sojourn",
+      "rank": 616,
+      "ticker": "soj",
+      "usd": 0.29227
+    },
+    "song": {
+      "btc": 3.1E-7,
+      "name": "SongCoin",
+      "rank": 483,
+      "ticker": "song",
+      "usd": 0.003414
+    },
+    "soon": {
+      "btc": 0.00000266,
+      "name": "SoonCoin",
+      "rank": 429,
+      "ticker": "soon",
+      "usd": 0.029348
+    },
+    "space": {
+      "btc": 0.00000173,
+      "name": "SpaceCoin",
+      "rank": 417,
+      "ticker": "space",
+      "usd": 0.019046
+    },
+    "spex": {
+      "btc": 1E-8,
+      "name": "SproutsExtreme",
+      "rank": 577,
+      "ticker": "spex",
+      "usd": 0.00011
+    },
+    "sphr": {
+      "btc": 0.00036989,
+      "name": "Sphere",
+      "rank": 166,
+      "ticker": "sphr",
+      "usd": 4.08
+    },
+    "spk": {
+      "btc": 0.00002902,
+      "name": "Sparks",
+      "rank": 767,
+      "ticker": "spk",
+      "usd": 0.320062
+    },
+    "sport": {
+      "btc": 1.5E-7,
+      "name": "SportsCoin",
+      "rank": 875,
+      "ticker": "sport",
+      "usd": 0.001655
+    },
+    "spr": {
+      "btc": 0.00004800,
+      "name": "SpreadCoin",
+      "rank": 231,
+      "ticker": "spr",
+      "usd": 0.529474
+    },
+    "sprts": {
+      "btc": 0E-8,
+      "name": "Sprouts",
+      "rank": 212,
+      "ticker": "sprts",
+      "usd": 2e-06
+    },
+    "spt": {
+      "btc": 5.5E-7,
+      "name": "Spots",
+      "rank": 475,
+      "ticker": "spt",
+      "usd": 0.006099
+    },
+    "src": {
+      "btc": 0.00000700,
+      "name": "SecureCoin",
+      "rank": 386,
+      "ticker": "src",
+      "usd": 0.077244
+    },
+    "stak": {
+      "btc": 0.00013146,
+      "name": "STRAKS",
+      "rank": 283,
+      "ticker": "stak",
+      "usd": 1.45
+    },
+    "stars": {
+      "btc": 0.00002002,
+      "name": "StarCash Network",
+      "rank": 465,
+      "ticker": "stars",
+      "usd": 0.220775
+    },
+    "start": {
+      "btc": 0.00000833,
+      "name": "Startcoin",
+      "rank": 251,
+      "ticker": "start",
+      "usd": 0.091925
+    },
+    "steem": {
+      "btc": 0.00031187,
+      "name": "Steem",
+      "rank": 21,
+      "ticker": "steem",
+      "usd": 3.44
+    },
+    "steps": {
+      "btc": 2.6E-7,
+      "name": "Steps",
+      "rank": 665,
+      "ticker": "steps",
+      "usd": 0.002869
+    },
+    "stn": {
+      "btc": 0.00002860,
+      "name": "Steneum Coin",
+      "rank": 379,
+      "ticker": "stn",
+      "usd": 0.315458
+    },
+    "strat": {
+      "btc": 0.00068357,
+      "name": "Stratis",
+      "rank": 22,
+      "ticker": "strat",
+      "usd": 7.54
+    },
+    "stv": {
+      "btc": 0.00000434,
+      "name": "Sativacoin",
+      "rank": 437,
+      "ticker": "stv",
+      "usd": 0.047896
+    },
+    "sumo": {
+      "btc": 0.00026382,
+      "name": "Sumokoin",
+      "rank": 187,
+      "ticker": "sumo",
+      "usd": 2.91
+    },
+    "sup": {
+      "btc": 4.5E-7,
+      "name": "Superior Coin",
+      "rank": 760,
+      "ticker": "sup",
+      "usd": 0.004965
+    },
+    "super": {
+      "btc": 9.0E-7,
+      "name": "SuperCoin",
+      "rank": 403,
+      "ticker": "super",
+      "usd": 0.009964
+    },
+    "swing": {
+      "btc": 0.00001461,
+      "name": "Swing",
+      "rank": 559,
+      "ticker": "swing",
+      "usd": 0.161196
+    },
+    "swtc": {
+      "btc": 9.2E-7,
+      "name": "Jingtum Tech",
+      "rank": 735,
+      "ticker": "swtc",
+      "usd": 0.010105
+    },
+    "sxc": {
+      "btc": 0.00000340,
+      "name": "Sexcoin",
+      "rank": 242,
+      "ticker": "sxc",
+      "usd": 0.037515
+    },
+    "synx": {
+      "btc": 0.00007878,
+      "name": "Syndicate",
+      "rank": 143,
+      "ticker": "synx",
+      "usd": 0.868927
+    },
+    "sys": {
+      "btc": 0.00005969,
+      "name": "Syscoin",
+      "rank": 35,
+      "ticker": "sys",
+      "usd": 0.658442
+    },
+    "tag": {
+      "btc": 0.00000591,
+      "name": "TagCoin",
+      "rank": 566,
+      "ticker": "tag",
+      "usd": 0.065178
+    },
+    "tagr": {
+      "btc": 1.3E-7,
+      "name": "TAGRcoin",
+      "rank": 664,
+      "ticker": "tagr",
+      "usd": 0.001434
+    },
+    "taj": {
+      "btc": 0.00000237,
+      "name": "TajCoin",
+      "rank": 457,
+      "ticker": "taj",
+      "usd": 0.026153
+    },
+    "talk": {
+      "btc": 0.00000112,
+      "name": "BTCtalkcoin",
+      "rank": 534,
+      "ticker": "talk",
+      "usd": 0.012357
+    },
+    "tcc": {
+      "btc": 0.00000677,
+      "name": "The ChampCoin",
+      "rank": 169,
+      "ticker": "tcc",
+      "usd": 0.074695
+    },
+    "tcoin": {
+      "btc": 2E-8,
+      "name": "T-coin",
+      "rank": 803,
+      "ticker": "tcoin",
+      "usd": 0.000221
+    },
+    "tcr": {
+      "btc": 7E-8,
+      "name": "TheCreed",
+      "rank": 860,
+      "ticker": "tcr",
+      "usd": 0.000772
+    },
+    "team": {
+      "btc": 3E-8,
+      "name": "TeamUp",
+      "rank": 905,
+      "ticker": "team",
+      "usd": 0.000324
+    },
+    "tek": {
+      "btc": 3E-8,
+      "name": "TEKcoin",
+      "rank": 404,
+      "ticker": "tek",
+      "usd": 0.000339
+    },
+    "tell": {
+      "btc": 6E-8,
+      "name": "Tellurion",
+      "rank": 810,
+      "ticker": "tell",
+      "usd": 0.000715
+    },
+    "ter": {
+      "btc": 0.00211780,
+      "name": "TerraNova",
+      "rank": 768,
+      "ticker": "ter",
+      "usd": 23.36
+    },
+    "tes": {
+      "btc": 0.00000713,
+      "name": "TeslaCoin",
+      "rank": 217,
+      "ticker": "tes",
+      "usd": 0.078667
+    },
+    "tgc": {
+      "btc": 0.00000158,
+      "name": "Tigercoin",
+      "rank": 539,
+      "ticker": "tgc",
+      "usd": 0.017433
+    },
+    "thc": {
+      "btc": 0.00001141,
+      "name": "HempCoin",
+      "rank": 108,
+      "ticker": "thc",
+      "usd": 0.125889
+    },
+    "ths": {
+      "btc": 0.00004102,
+      "name": "TechShares",
+      "rank": 765,
+      "ticker": "ths",
+      "usd": 0.452512
+    },
+    "tips": {
+      "btc": 0E-8,
+      "name": "FedoraCoin",
+      "rank": 208,
+      "ticker": "tips",
+      "usd": 1.5e-05
+    },
+    "tit": {
+      "btc": 0.00000193,
+      "name": "Titcoin",
+      "rank": 349,
+      "ticker": "tit",
+      "usd": 0.021289
+    },
+    "tle": {
+      "btc": 0.00004969,
+      "name": "Tattoocoin (L...",
+      "rank": 908,
+      "ticker": "tle",
+      "usd": 0.548097
+    },
+    "tmc": {
+      "btc": 0.00010063,
+      "name": "TimesCoin",
+      "rank": 734,
+      "ticker": "tmc",
+      "usd": 1.11
+    },
+    "toa": {
+      "btc": 7.5E-7,
+      "name": "ToaCoin",
+      "rank": 148,
+      "ticker": "toa",
+      "usd": 0.008245
+    },
+    "today": {
+      "btc": 7E-8,
+      "name": "TodayCoin",
+      "rank": 845,
+      "ticker": "today",
+      "usd": 0.000772
+    },
+    "tok": {
+      "btc": 0.00008282,
+      "name": "Tokugawa",
+      "rank": 749,
+      "ticker": "tok",
+      "usd": 0.913552
+    },
+    "tokc": {
+      "btc": 4.9E-7,
+      "name": "TOKYO",
+      "rank": 383,
+      "ticker": "tokc",
+      "usd": 0.005451
+    },
+    "token": {
+      "btc": 0E-8,
+      "name": "SwapToken",
+      "rank": 755,
+      "ticker": "token",
+      "usd": 2e-06
+    },
+    "top": {
+      "btc": 2.5E-7,
+      "name": "TopCoin",
+      "rank": 806,
+      "ticker": "top",
+      "usd": 0.002758
+    },
+    "topaz": {
+      "btc": 0.00004016,
+      "name": "Topaz Coin",
+      "rank": 805,
+      "ticker": "topaz",
+      "usd": 0.442984
+    },
+    "tor": {
+      "btc": 0.00001745,
+      "name": "Torcoin",
+      "rank": 658,
+      "ticker": "tor",
+      "usd": 0.19253
+    },
+    "trc": {
+      "btc": 0.00001949,
+      "name": "Terracoin",
+      "rank": 240,
+      "ticker": "trc",
+      "usd": 0.214974
+    },
+    "trf": {
+      "btc": 0.00001172,
+      "name": "Travelflex",
+      "rank": 180,
+      "ticker": "trf",
+      "usd": 0.129279
+    },
+    "tri": {
+      "btc": 0.00074975,
+      "name": "Triangles",
+      "rank": 362,
+      "ticker": "tri",
+      "usd": 8.27
+    },
+    "trick": {
+      "btc": 0.00000114,
+      "name": "TrickyCoin",
+      "rank": 890,
+      "ticker": "trick",
+      "usd": 0.012578
+    },
+    "trk": {
+      "btc": 3.1E-7,
+      "name": "Truckcoin",
+      "rank": 554,
+      "ticker": "trk",
+      "usd": 0.003415
+    },
+    "troll": {
+      "btc": 1.7E-7,
+      "name": "Trollcoin",
+      "rank": 344,
+      "ticker": "troll",
+      "usd": 0.001923
+    },
+    "trump": {
+      "btc": 0.00001258,
+      "name": "TrumpCoin",
+      "rank": 360,
+      "ticker": "trump",
+      "usd": 0.13877
+    },
+    "trust": {
+      "btc": 0.00001244,
+      "name": "TrustPlus",
+      "rank": 248,
+      "ticker": "trust",
+      "usd": 0.137253
+    },
+    "tse": {
+      "btc": 6.4E-7,
+      "name": "Tattoocoin (S...",
+      "rank": 550,
+      "ticker": "tse",
+      "usd": 0.007008
+    },
+    "tstr": {
+      "btc": 7E-8,
+      "name": "Tristar Coin",
+      "rank": 503,
+      "ticker": "tstr",
+      "usd": 0.000772
+    },
+    "ttc": {
+      "btc": 6E-8,
+      "name": "TittieCoin",
+      "rank": 361,
+      "ticker": "ttc",
+      "usd": 0.000707
+    },
+    "turbo": {
+      "btc": 1E-8,
+      "name": "TurboCoin",
+      "rank": 781,
+      "ticker": "turbo",
+      "usd": 0.00011
+    },
+    "tx": {
+      "btc": 0.00011695,
+      "name": "TransferCoin",
+      "rank": 188,
+      "ticker": "tx",
+      "usd": 1.29
+    },
+    "tycho": {
+      "btc": 8.0E-7,
+      "name": "Tychocoin",
+      "rank": 676,
+      "ticker": "tycho",
+      "usd": 0.008827
+    },
+    "tzc": {
+      "btc": 0.00000389,
+      "name": "TrezarCoin",
+      "rank": 256,
+      "ticker": "tzc",
+      "usd": 0.042919
+    },
+    "ubq": {
+      "btc": 0.00022030,
+      "name": "Ubiq",
+      "rank": 62,
+      "ticker": "ubq",
+      "usd": 2.43
+    },
+    "ubtc": {
+      "btc": 0.00518028,
+      "name": "United Bitcoin",
+      "rank": 719,
+      "ticker": "ubtc",
+      "usd": 57.14
+    },
+    "ufo": {
+      "btc": 1.6E-7,
+      "name": "Uniform Fisca...",
+      "rank": 215,
+      "ticker": "ufo",
+      "usd": 0.001765
+    },
+    "uis": {
+      "btc": 0.00000343,
+      "name": "Unitus",
+      "rank": 312,
+      "ticker": "uis",
+      "usd": 0.037844
+    },
+    "ula": {
+      "btc": 0.00000670,
+      "name": "Ulatech",
+      "rank": 695,
+      "ticker": "ula",
+      "usd": 0.073923
+    },
+    "unb": {
+      "btc": 0.00010698,
+      "name": "UnbreakableCoin",
+      "rank": 288,
+      "ticker": "unb",
+      "usd": 1.18
+    },
+    "unc": {
+      "btc": 1E-8,
+      "name": "UNCoin",
+      "rank": 870,
+      "ticker": "unc",
+      "usd": 0.00011
+    },
+    "uni": {
+      "btc": 0.00000979,
+      "name": "Universe",
+      "rank": 515,
+      "ticker": "uni",
+      "usd": 0.108008
+    },
+    "unic": {
+      "btc": 0.00003008,
+      "name": "UniCoin",
+      "rank": 355,
+      "ticker": "unic",
+      "usd": 0.331769
+    },
+    "unify": {
+      "btc": 0.00001251,
+      "name": "Unify",
+      "rank": 293,
+      "ticker": "unify",
+      "usd": 0.137985
+    },
+    "unit": {
+      "btc": 0.00013146,
+      "name": "Universal Cur...",
+      "rank": 132,
+      "ticker": "unit",
+      "usd": 1.45
+    },
+    "units": {
+      "btc": 0.00000891,
+      "name": "GameUnits",
+      "rank": 436,
+      "ticker": "units",
+      "usd": 0.098239
+    },
+    "uno": {
+      "btc": 0.01463967,
+      "name": "Unobtanium",
+      "rank": 103,
+      "ticker": "uno",
+      "usd": 161.48
+    },
+    "unrc": {
+      "btc": 6E-8,
+      "name": "UniversalRoya...",
+      "rank": 809,
+      "ticker": "unrc",
+      "usd": 0.000654
+    },
+    "ur": {
+      "btc": 1.9E-7,
+      "name": "UR",
+      "rank": 783,
+      "ticker": "ur",
+      "usd": 0.002096
+    },
+    "urc": {
+      "btc": 9.5E-7,
+      "name": "Unrealcoin",
+      "rank": 650,
+      "ticker": "urc",
+      "usd": 0.010482
+    },
+    "uro": {
+      "btc": 0.00000712,
+      "name": "Uro",
+      "rank": 633,
+      "ticker": "uro",
+      "usd": 0.078557
+    },
+    "usc": {
+      "btc": 0.00001099,
+      "name": "Ultimate Secu...",
+      "rank": 521,
+      "ticker": "usc",
+      "usd": 0.121255
+    },
+    "usnbt": {
+      "btc": 0.00009066,
+      "name": "NuBits",
+      "rank": 184,
+      "ticker": "usnbt",
+      "usd": 1.0
+    },
+    "utc": {
+      "btc": 0.00000153,
+      "name": "UltraCoin",
+      "rank": 368,
+      "ticker": "utc",
+      "usd": 0.016881
+    },
+    "v": {
+      "btc": 4.2E-7,
+      "name": "Version",
+      "rank": 512,
+      "ticker": "v",
+      "usd": 0.004599
+    },
+    "val": {
+      "btc": 1E-8,
+      "name": "Valorbit",
+      "rank": 545,
+      "ticker": "val",
+      "usd": 0.000108
+    },
+    "vash": {
+      "btc": 4.0E-7,
+      "name": "VPNCoin",
+      "rank": 762,
+      "ticker": "vash",
+      "usd": 0.004413
+    },
+    "vc": {
+      "btc": 0.00000334,
+      "name": "VirtualCoin",
+      "rank": 428,
+      "ticker": "vc",
+      "usd": 0.036851
+    },
+    "vec2": {
+      "btc": 5.1E-7,
+      "name": "VectorAI",
+      "rank": 632,
+      "ticker": "vec2",
+      "usd": 0.005627
+    },
+    "via": {
+      "btc": 0.00023843,
+      "name": "Viacoin",
+      "rank": 75,
+      "ticker": "via",
+      "usd": 2.63
+    },
+    "vidz": {
+      "btc": 5.5E-7,
+      "name": "PureVidz",
+      "rank": 375,
+      "ticker": "vidz",
+      "usd": 0.006023
+    },
+    "vip": {
+      "btc": 8E-8,
+      "name": "VIP Tokens",
+      "rank": 649,
+      "ticker": "vip",
+      "usd": 0.000883
+    },
+    "visio": {
+      "btc": 0.00000145,
+      "name": "Visio",
+      "rank": 533,
+      "ticker": "visio",
+      "usd": 0.016012
+    },
+    "vivo": {
+      "btc": 0.00011967,
+      "name": "VIVO",
+      "rank": 311,
+      "ticker": "vivo",
+      "usd": 1.32
+    },
+    "vlt": {
+      "btc": 0.00004014,
+      "name": "Veltor",
+      "rank": 592,
+      "ticker": "vlt",
+      "usd": 0.442764
+    },
+    "vltc": {
+      "btc": 4E-8,
+      "name": "Vault Coin",
+      "rank": 499,
+      "ticker": "vltc",
+      "usd": 0.000438
+    },
+    "volt": {
+      "btc": 2.2E-7,
+      "name": "Bitvolt",
+      "rank": 680,
+      "ticker": "volt",
+      "usd": 0.002427
+    },
+    "vot": {
+      "btc": 0.00000153,
+      "name": "VoteCoin",
+      "rank": 582,
+      "ticker": "vot",
+      "usd": 0.016868
+    },
+    "vox": {
+      "btc": 0.00001402,
+      "name": "Voxels",
+      "rank": 101,
+      "ticker": "vox",
+      "usd": 0.154608
+    },
+    "voya": {
+      "btc": 0.00008902,
+      "name": "Voyacoin",
+      "rank": 889,
+      "ticker": "voya",
+      "usd": 0.981958
+    },
+    "vprc": {
+      "btc": 1E-8,
+      "name": "VapersCoin",
+      "rank": 486,
+      "ticker": "vprc",
+      "usd": 0.000111
+    },
+    "vrc": {
+      "btc": 0.00007920,
+      "name": "VeriCoin",
+      "rank": 112,
+      "ticker": "vrc",
+      "usd": 0.873579
+    },
+    "vrm": {
+      "btc": 0.00044060,
+      "name": "VeriumReserve",
+      "rank": 197,
+      "ticker": "vrm",
+      "usd": 4.86
+    },
+    "vsx": {
+      "btc": 0.00000263,
+      "name": "Vsync",
+      "rank": 238,
+      "ticker": "vsx",
+      "usd": 0.029003
+    },
+    "vta": {
+      "btc": 1.2E-7,
+      "name": "Virtacoin",
+      "rank": 508,
+      "ticker": "vta",
+      "usd": 0.001361
+    },
+    "vtc": {
+      "btc": 0.00035538,
+      "name": "Vertcoin",
+      "rank": 49,
+      "ticker": "vtc",
+      "usd": 3.92
+    },
+    "vtr": {
+      "btc": 0.00006348,
+      "name": "vTorrent",
+      "rank": 194,
+      "ticker": "vtr",
+      "usd": 0.700169
+    },
+    "vuc": {
+      "btc": 0.00000110,
+      "name": "Virta Unique ...",
+      "rank": 376,
+      "ticker": "vuc",
+      "usd": 0.012137
+    },
+    "vulc": {
+      "btc": 3.7E-7,
+      "name": "Vulcano",
+      "rank": 776,
+      "ticker": "vulc",
+      "usd": 0.004081
+    },
+    "w3c": {
+      "btc": 1.1E-7,
+      "name": "W3Coin",
+      "rank": 715,
+      "ticker": "w3c",
+      "usd": 0.001258
+    },
+    "wa": {
+      "btc": 0.00000163,
+      "name": "WA Space",
+      "rank": 770,
+      "ticker": "wa",
+      "usd": 0.017984
+    },
+    "warp": {
+      "btc": 0.00000773,
+      "name": "WARP",
+      "rank": 634,
+      "ticker": "warp",
+      "usd": 0.085287
+    },
+    "waves": {
+      "btc": 0.00061558,
+      "name": "Waves",
+      "rank": 25,
+      "ticker": "waves",
+      "usd": 6.79
+    },
+    "way": {
+      "btc": 5.4E-7,
+      "name": "WayGuide",
+      "rank": 552,
+      "ticker": "way",
+      "usd": 0.005958
+    },
+    "wbb": {
+      "btc": 0.00003904,
+      "name": "Wild Beast Block",
+      "rank": 642,
+      "ticker": "wbb",
+      "usd": 0.430627
+    },
+    "wc": {
+      "btc": 0.00009973,
+      "name": "WINCOIN",
+      "rank": 750,
+      "ticker": "wc",
+      "usd": 1.1
+    },
+    "wdc": {
+      "btc": 0.00000128,
+      "name": "WorldCoin",
+      "rank": 320,
+      "ticker": "wdc",
+      "usd": 0.014066
+    },
+    "whl": {
+      "btc": 0.00000698,
+      "name": "WhaleCoin",
+      "rank": 395,
+      "ticker": "whl",
+      "usd": 0.077011
+    },
+    "wic": {
+      "btc": 0.00004212,
+      "name": "WaykiChain",
+      "rank": 714,
+      "ticker": "wic",
+      "usd": 0.464612
+    },
+    "wink": {
+      "btc": 9E-8,
+      "name": "Wink",
+      "rank": 842,
+      "ticker": "wink",
+      "usd": 0.000965
+    },
+    "women": {
+      "btc": 1.6E-7,
+      "name": "WomenCoin",
+      "rank": 488,
+      "ticker": "women",
+      "usd": 0.001711
+    },
+    "worm": {
+      "btc": 6E-8,
+      "name": "HealthyWormCoin",
+      "rank": 647,
+      "ticker": "worm",
+      "usd": 0.000662
+    },
+    "wow": {
+      "btc": 0E-8,
+      "name": "Wowcoin",
+      "rank": 823,
+      "ticker": "wow",
+      "usd": 2.4e-05
+    },
+    "wsx": {
+      "btc": 8.0E-7,
+      "name": "WeAreSatoshi",
+      "rank": 858,
+      "ticker": "wsx",
+      "usd": 0.008827
+    },
+    "x2": {
+      "btc": 2E-8,
+      "name": "X2",
+      "rank": 899,
+      "ticker": "x2",
+      "usd": 0.000214
+    },
+    "xas": {
+      "btc": 0.00009000,
+      "name": "Asch",
+      "rank": 63,
+      "ticker": "xas",
+      "usd": 0.992692
+    },
+    "xau": {
+      "btc": 0.00000665,
+      "name": "Xaucoin",
+      "rank": 826,
+      "ticker": "xau",
+      "usd": 0.073371
+    },
+    "xbc": {
+      "btc": 0.00653926,
+      "name": "Bitcoin Plus",
+      "rank": 191,
+      "ticker": "xbc",
+      "usd": 72.13
+    },
+    "xbtc21": {
+      "btc": 0.00001850,
+      "name": "Bitcoin 21",
+      "rank": 610,
+      "ticker": "xbtc21",
+      "usd": 0.204115
+    },
+    "xbts": {
+      "btc": 0.00001646,
+      "name": "Beatcoin",
+      "rank": 450,
+      "ticker": "xbts",
+      "usd": 0.181526
+    },
+    "xby": {
+      "btc": 0.00001510,
+      "name": "XTRABYTES",
+      "rank": 70,
+      "ticker": "xby",
+      "usd": 0.166595
+    },
+    "xcn": {
+      "btc": 2.0E-7,
+      "name": "Cryptonite",
+      "rank": 363,
+      "ticker": "xcn",
+      "usd": 0.002207
+    },
+    "xco": {
+      "btc": 0.00000125,
+      "name": "X-Coin",
+      "rank": 468,
+      "ticker": "xco",
+      "usd": 0.013797
+    },
+    "xcp": {
+      "btc": 0.00205253,
+      "name": "Counterparty",
+      "rank": 76,
+      "ticker": "xcp",
+      "usd": 22.64
+    },
+    "xcpo": {
+      "btc": 0.00000801,
+      "name": "Copico",
+      "rank": 331,
+      "ticker": "xcpo",
+      "usd": 0.088331
+    },
+    "xcre": {
+      "btc": 7.4E-7,
+      "name": "Creatio",
+      "rank": 607,
+      "ticker": "xcre",
+      "usd": 0.008165
+    },
+    "xct": {
+      "btc": 2.2E-7,
+      "name": "C-Bit",
+      "rank": 425,
+      "ticker": "xct",
+      "usd": 0.00245
+    },
+    "xcxt": {
+      "btc": 0.00000234,
+      "name": "CoinonatX",
+      "rank": 405,
+      "ticker": "xcxt",
+      "usd": 0.025796
+    },
+    "xdn": {
+      "btc": 0.00000180,
+      "name": "DigitalNote",
+      "rank": 54,
+      "ticker": "xdn",
+      "usd": 0.019871
+    },
+    "xel": {
+      "btc": 0.00002951,
+      "name": "Elastic",
+      "rank": 106,
+      "ticker": "xel",
+      "usd": 0.32548
+    },
+    "xem": {
+      "btc": 0.00003766,
+      "name": "NEM",
+      "rank": 12,
+      "ticker": "xem",
+      "usd": 0.415426
+    },
+    "xft": {
+      "btc": 0.00005089,
+      "name": "Footy Cash",
+      "rank": 291,
+      "ticker": "xft",
+      "usd": 0.561371
+    },
+    "xgox": {
+      "btc": 2.6E-7,
+      "name": "XGOX",
+      "rank": 249,
+      "ticker": "xgox",
+      "usd": 0.002871
+    },
+    "xgr": {
+      "btc": 0.00000293,
+      "name": "GoldReserve",
+      "rank": 556,
+      "ticker": "xgr",
+      "usd": 0.032327
+    },
+    "xhi": {
+      "btc": 3.2E-7,
+      "name": "HiCoin",
+      "rank": 385,
+      "ticker": "xhi",
+      "usd": 0.003532
+    },
+    "xid": {
+      "btc": 5.5E-7,
+      "name": "International...",
+      "rank": 754,
+      "ticker": "xid",
+      "usd": 0.006068
+    },
+    "xin": {
+      "btc": 0.00000161,
+      "name": "Infinity Econ...",
+      "rank": 729,
+      "ticker": "xin",
+      "usd": 0.017764
+    },
+    "xios": {
+      "btc": 0.00001322,
+      "name": "Xios",
+      "rank": 445,
+      "ticker": "xios",
+      "usd": 0.145875
+    },
+    "xjo": {
+      "btc": 0.00000167,
+      "name": "Joulecoin",
+      "rank": 546,
+      "ticker": "xjo",
+      "usd": 0.018441
+    },
+    "xlc": {
+      "btc": 0.00001049,
+      "name": "LeviarCoin",
+      "rank": 341,
+      "ticker": "xlc",
+      "usd": 0.115739
+    },
+    "xlm": {
+      "btc": 0.00003083,
+      "name": "Stellar",
+      "rank": 8,
+      "ticker": "xlm",
+      "usd": 0.340095
+    },
+    "xlr": {
+      "btc": 0.00122662,
+      "name": "Solaris",
+      "rank": 158,
+      "ticker": "xlr",
+      "usd": 13.53
+    },
+    "xmcc": {
+      "btc": 0.00020761,
+      "name": "Monoeci",
+      "rank": 200,
+      "ticker": "xmcc",
+      "usd": 2.29
+    },
+    "xmg": {
+      "btc": 0.00004681,
+      "name": "Magi",
+      "rank": 257,
+      "ticker": "xmg",
+      "usd": 0.516304
+    },
+    "xmr": {
+      "btc": 0.02808990,
+      "name": "Monero",
+      "rank": 11,
+      "ticker": "xmr",
+      "usd": 309.84
+    },
+    "xmy": {
+      "btc": 0.00000104,
+      "name": "Myriad",
+      "rank": 136,
+      "ticker": "xmy",
+      "usd": 0.011474
+    },
+    "xng": {
+      "btc": 0.00002445,
+      "name": "Enigma",
+      "rank": 606,
+      "ticker": "xng",
+      "usd": 0.269652
+    },
+    "xoc": {
+      "btc": 0.00001000,
+      "name": "Xonecoin",
+      "rank": 674,
+      "ticker": "xoc",
+      "usd": 0.110332
+    },
+    "xp": {
+      "btc": 4E-8,
+      "name": "Experience Po...",
+      "rank": 61,
+      "ticker": "xp",
+      "usd": 0.000458
+    },
+    "xpd": {
+      "btc": 0.00000285,
+      "name": "PetroDollar",
+      "rank": 307,
+      "ticker": "xpd",
+      "usd": 0.03144
+    },
+    "xpm": {
+      "btc": 0.00007867,
+      "name": "Primecoin",
+      "rank": 130,
+      "ticker": "xpm",
+      "usd": 0.867768
+    },
+    "xptx": {
+      "btc": 0.00018857,
+      "name": "PlatinumBAR",
+      "rank": 338,
+      "ticker": "xptx",
+      "usd": 2.08
+    },
+    "xpy": {
+      "btc": 0.00000582,
+      "name": "PayCoin",
+      "rank": 537,
+      "ticker": "xpy",
+      "usd": 0.064236
+    },
+    "xqn": {
+      "btc": 6.6E-7,
+      "name": "Quotient",
+      "rank": 828,
+      "ticker": "xqn",
+      "usd": 0.007282
+    },
+    "xra": {
+      "btc": 3.1E-7,
+      "name": "Ratecoin",
+      "rank": 418,
+      "ticker": "xra",
+      "usd": 0.00339
+    },
+    "xrc": {
+      "btc": 0.00000744,
+      "name": "Rawcoin",
+      "rank": 492,
+      "ticker": "xrc",
+      "usd": 0.082109
+    },
+    "xre": {
+      "btc": 0.00000148,
+      "name": "RevolverCoin",
+      "rank": 572,
+      "ticker": "xre",
+      "usd": 0.016329
+    },
+    "xrp": {
+      "btc": 0.00008450,
+      "name": "Ripple",
+      "rank": 3,
+      "ticker": "xrp",
+      "usd": 0.932088
+    },
+    "xry": {
+      "btc": 1E-8,
+      "name": "Royalties",
+      "rank": 816,
+      "ticker": "xry",
+      "usd": 0.00011
+    },
+    "xsh": {
+      "btc": 0.00000387,
+      "name": "SHIELD",
+      "rank": 127,
+      "ticker": "xsh",
+      "usd": 0.042669
+    },
+    "xspec": {
+      "btc": 0.00011332,
+      "name": "Spectrecoin",
+      "rank": 113,
+      "ticker": "xspec",
+      "usd": 1.25
+    },
+    "xst": {
+      "btc": 0.00003634,
+      "name": "Stealthcoin",
+      "rank": 173,
+      "ticker": "xst",
+      "usd": 0.400889
+    },
+    "xstc": {
+      "btc": 9E-8,
+      "name": "Safe Trade Coin",
+      "rank": 808,
+      "ticker": "xstc",
+      "usd": 0.000993
+    },
+    "xtd": {
+      "btc": 1E-8,
+      "name": "XTD Coin",
+      "rank": 840,
+      "ticker": "xtd",
+      "usd": 0.00011
+    },
+    "xto": {
+      "btc": 0.00004193,
+      "name": "Tao",
+      "rank": 153,
+      "ticker": "xto",
+      "usd": 0.462513
+    },
+    "xtz": {
+      "btc": 0.00040615,
+      "name": "Tezos (Pre-La...",
+      "rank": 722,
+      "ticker": "xtz",
+      "usd": 4.48
+    },
+    "xvc": {
+      "btc": 0.00005313,
+      "name": "Vcash",
+      "rank": 183,
+      "ticker": "xvc",
+      "usd": 0.586085
+    },
+    "xve": {
+      "btc": 7E-8,
+      "name": "The Vegan Ini...",
+      "rank": 883,
+      "ticker": "xve",
+      "usd": 0.000772
+    },
+    "xvg": {
+      "btc": 0.00000560,
+      "name": "Verge",
+      "rank": 19,
+      "ticker": "xvg",
+      "usd": 0.061766
+    },
+    "xvp": {
+      "btc": 0.00000284,
+      "name": "Virtacoinplus",
+      "rank": 575,
+      "ticker": "xvp",
+      "usd": 0.031347
+    },
+    "xwc": {
+      "btc": 0.00001187,
+      "name": "WhiteCoin",
+      "rank": 100,
+      "ticker": "xwc",
+      "usd": 0.130915
+    },
+    "xzc": {
+      "btc": 0.00529995,
+      "name": "ZCoin",
+      "rank": 42,
+      "ticker": "xzc",
+      "usd": 58.46
+    },
+    "yac": {
+      "btc": 1.5E-7,
+      "name": "Yacoin",
+      "rank": 602,
+      "ticker": "yac",
+      "usd": 0.001699
+    },
+    "yash": {
+      "btc": 0.00003001,
+      "name": "YashCoin",
+      "rank": 509,
+      "ticker": "yash",
+      "usd": 0.330997
+    },
+    "yes": {
+      "btc": 1E-8,
+      "name": "Yescoin",
+      "rank": 879,
+      "ticker": "yes",
+      "usd": 0.00011
+    },
+    "yoc": {
+      "btc": 0.00000451,
+      "name": "Yocoin",
+      "rank": 223,
+      "ticker": "yoc",
+      "usd": 0.049773
+    },
+    "ytn": {
+      "btc": 0.00000410,
+      "name": "YENTEN",
+      "rank": 466,
+      "ticker": "ytn",
+      "usd": 0.045236
+    },
+    "zbc": {
+      "btc": 0.00000278,
+      "name": "Zilbercoin",
+      "rank": 807,
+      "ticker": "zbc",
+      "usd": 0.030623
+    },
+    "zcl": {
+      "btc": 0.00130278,
+      "name": "ZClassic",
+      "rank": 82,
+      "ticker": "zcl",
+      "usd": 14.37
+    },
+    "zec": {
+      "btc": 0.03648224,
+      "name": "Zcash",
+      "rank": 18,
+      "ticker": "zec",
+      "usd": 402.41
+    },
+    "zeit": {
+      "btc": 2E-8,
+      "name": "Zeitcoin",
+      "rank": 210,
+      "ticker": "zeit",
+      "usd": 0.000178
+    },
+    "zen": {
+      "btc": 0.00370978,
+      "name": "ZenCash",
+      "rank": 55,
+      "ticker": "zen",
+      "usd": 40.92
+    },
+    "zeni": {
+      "btc": 1.6E-7,
+      "name": "Zennies",
+      "rank": 314,
+      "ticker": "zeni",
+      "usd": 0.001744
+    },
+    "zeph": {
+      "btc": 0.00000267,
+      "name": "Zephyr",
+      "rank": 265,
+      "ticker": "zeph",
+      "usd": 0.029427
+    },
+    "zer": {
+      "btc": 0.00016137,
+      "name": "Zero",
+      "rank": 241,
+      "ticker": "zer",
+      "usd": 1.78
+    },
+    "zet": {
+      "btc": 8.7E-7,
+      "name": "Zetacoin",
+      "rank": 322,
+      "ticker": "zet",
+      "usd": 0.009598
+    },
+    "zmc": {
+      "btc": 2E-8,
+      "name": "ZetaMicron",
+      "rank": 623,
+      "ticker": "zmc",
+      "usd": 0.000221
+    },
+    "zne": {
+      "btc": 0.00000150,
+      "name": "Zonecoin",
+      "rank": 677,
+      "ticker": "zne",
+      "usd": 0.01655
+    },
+    "zny": {
+      "btc": 0.00000578,
+      "name": "Bitzeny",
+      "rank": 239,
+      "ticker": "zny",
+      "usd": 0.063772
+    },
+    "zoi": {
+      "btc": 0.00011242,
+      "name": "Zoin",
+      "rank": 125,
+      "ticker": "zoi",
+      "usd": 1.24
+    },
+    "zse": {
+      "btc": 0.00000255,
+      "name": "ZSEcoin",
+      "rank": 791,
+      "ticker": "zse",
+      "usd": 0.028173
+    },
+    "zur": {
+      "btc": 2.3E-7,
+      "name": "Zurcoin",
+      "rank": 594,
+      "ticker": "zur",
+      "usd": 0.002538
+    },
+    "zyd": {
+      "btc": 0.00000104,
+      "name": "Zayedcoin",
+      "rank": 651,
+      "ticker": "zyd",
+      "usd": 0.011475
+    },
+    "zzc": {
+      "btc": 0.00008020,
+      "name": "ZoZoCoin",
+      "rank": 399,
+      "ticker": "zzc",
+      "usd": 0.884672
+    }
+  }
+}
