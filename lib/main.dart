@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'coins.dart';
 
 void main() => runApp(new MyApp());
 
@@ -26,13 +27,24 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  List<String> _places = <String>[];
+  var _coins = <Coin>[];
 
   @override
   initState(){
     super.initState();
-    _places = new List.generate(40, (i) => 'Coin name is ${i}');
+    listenForCoins();
   }
+
+
+  listenForCoins() async {
+    var stream = await getCoins();
+    stream.listen((data){
+      setState((){
+        _coins = data;
+      });
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
@@ -41,9 +53,23 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: new Center(
         child: new ListView(
-          children: _places.map((place)=> new Text(place)).toList(),
+          children: _coins.map((coin)=> new CoinWidget(coin)).toList(),
         ),
       ),  // This trailing comma makes auto-formatting nicer for build methods.
+    );
+  }
+}
+
+class CoinWidget extends StatelessWidget{
+  final Coin _coin;
+
+  CoinWidget(this._coin);
+
+  @override
+  Widget build(BuildContext context){
+    return new ListTile(
+      title: new Text(_coin.name),
+      subtitle: new Text(_coin.rank.toString()),
     );
   }
 }
