@@ -70,20 +70,26 @@ class _HomePageState extends State<HomePage> {
               _coins = _rawData.sublist(0);
               setState(() {
                 _sortType = result.index;
-                if (result.index == _sortType){
+                if (result.index == _sortType) {
                   _reverseSort = !_reverseSort;
                 } else {
                   _reverseSort = false;
                 }
                 switch (result) {
                   case SortParams.rank:
-                    _coins.sort((a, b) => _reverseSort ? a.rank.compareTo(b.rank) : b.rank.compareTo(a.rank));
+                    _coins.sort((a, b) => _reverseSort
+                        ? a.rank.compareTo(b.rank)
+                        : b.rank.compareTo(a.rank));
                     break;
                   case SortParams.name:
-                    _coins.sort((a, b) =>  _reverseSort ? a.name.compareTo(b.name) : b.name.compareTo(a.name));
+                    _coins.sort((a, b) => _reverseSort
+                        ? a.name.compareTo(b.name)
+                        : b.name.compareTo(a.name));
                     break;
                   case SortParams.price:
-                    _coins.sort((a, b) =>  _reverseSort ? a.fiatRate.compareTo(b.fiatRate) : b.fiatRate.compareTo(a.fiatRate));
+                    _coins.sort((a, b) => _reverseSort
+                        ? a.fiatRate.compareTo(b.fiatRate)
+                        : b.fiatRate.compareTo(a.fiatRate));
                     break;
                 }
               });
@@ -106,9 +112,8 @@ class _HomePageState extends State<HomePage> {
         ],
       ),
       body: new Container(
-        padding: const EdgeInsets.all(8.0),
         child: new ListView(
-          children: _coins.map((coin) => new CoinWidget(coin)).toList(),
+          children: _coins.map((coin) => new CustomCoinWidget(coin)).toList(),
         ),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
@@ -138,5 +143,44 @@ class CoinWidget extends StatelessWidget {
           style: new TextStyle(
               fontSize: 12.0, color: Colors.black.withOpacity(0.5))),
     );
+  }
+}
+
+class CustomCoinWidget extends StatelessWidget {
+  final Coin _coin;
+
+  CustomCoinWidget(this._coin);
+
+  @override
+  Widget build(BuildContext context) {
+    return new Container(
+        padding: const EdgeInsets.all(16.0),
+        child: new Row(
+          children: <Widget>[
+            new Container(
+                margin: const EdgeInsets.only(right: 10.0),
+                child: new CircleAvatar(
+                  child: new Text(_coin.rank.toString(),
+                      style: new TextStyle(
+                          fontSize: 16.0,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white)),
+                )),
+            new Expanded(
+                child: new Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: <Widget>[
+                new Text(
+                  _coin.name,
+                  style:
+                      new TextStyle(fontWeight: FontWeight.bold),
+                ),
+                new Text('\$${_coin.fiatRate.toString()}',
+                    style: new TextStyle(
+                        fontSize: 12.0, color: Colors.black))
+              ],
+            ))
+          ],
+        ));
   }
 }
