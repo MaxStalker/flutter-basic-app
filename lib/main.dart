@@ -160,6 +160,7 @@ class CustomCoinWidget extends StatelessWidget {
             new Container(
                 margin: const EdgeInsets.only(right: 10.0),
                 child: new CircleAvatar(
+                  backgroundColor: Colors.blueGrey,
                   child: new Text(_coin.rank.toString(),
                       style: new TextStyle(
                           fontSize: 16.0,
