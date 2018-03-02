@@ -32,9 +32,11 @@ getCoins() async {
   return streamedRes.stream
       .transform(UTF8.decoder)
       .transform(JSON.decoder)
-      .expand((jsonBody) => (jsonBody as Map)['coins'])
-      .expand((coins) => (coins as List))
-
+      .map((data) {
+        var list = new List();
+        (data as Map)['coins'].forEach((k, v) => list.add(new Coin.fromJson(v)));
+        return list;
+      })
       .listen((data) => print(data))
       .onDone(() => client.close());
 }
