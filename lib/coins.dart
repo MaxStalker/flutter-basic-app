@@ -9,12 +9,12 @@ main() {
 class Coin {
   final String name;
   final int rank;
-  final String fiatRate;
+  final num fiatRate;
 
   Coin.fromJson(Map jsonMap)
       : name = jsonMap['name'],
         rank = jsonMap['rank'],
-        fiatRate = jsonMap['usd'].toString();
+        fiatRate = jsonMap['usd'];
 
   String toString() => 'Coin $name';
 }
