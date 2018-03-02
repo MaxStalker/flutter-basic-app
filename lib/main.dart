@@ -34,28 +34,28 @@ class _HomePageState extends State<HomePage> {
   var _query = SortParams.rank;
 
   @override
-  initState(){
+  initState() {
     super.initState();
     listenForCoins();
   }
 
-  compare(a,b){
+  compare(a, b) {
     if (a.rank == b.rank) return 0;
     return (a.rank < b.rank) ? -1 : 1;
   }
 
   listenForCoins() async {
     var stream = await getCoins();
-    stream.listen((data){
+    stream.listen((data) {
       _rawData = data;
       print(_query.toString());
-      setState((){
+      setState(() {
         _coins = _rawData;
       });
     });
   }
 
-  _filter(){
+  _filter() {
     print('Filter list');
   }
 
@@ -68,52 +68,63 @@ class _HomePageState extends State<HomePage> {
           new IconButton(
               icon: new Icon(Icons.search),
               tooltip: 'Filter',
-              onPressed: _filter
-          ),
+              onPressed: _filter),
           new PopupMenuButton<SortParams>(
             onSelected: (SortParams result) {
               _filter();
-              setState(() { _query = result; });
-              },
+              setState(() {
+                _query = result;
+              });
+            },
             itemBuilder: (BuildContext context) => <PopupMenuEntry<SortParams>>[
-              const PopupMenuItem<SortParams>(
-                value: SortParams.rank,
-                child: const Text('Sort by Rank'),
-              ),
-              const PopupMenuItem<SortParams>(
-                value: SortParams.name,
-                child: const Text('Sort by Name'),
-              ),
-              const PopupMenuItem<SortParams>(
-                value: SortParams.price,
-                child: const Text('Sort by Price'),
-              ),
-            ],
+                  const PopupMenuItem<SortParams>(
+                    value: SortParams.rank,
+                    child: const Text('Sort by Rank'),
+                  ),
+                  const PopupMenuItem<SortParams>(
+                    value: SortParams.name,
+                    child: const Text('Sort by Name'),
+                  ),
+                  const PopupMenuItem<SortParams>(
+                    value: SortParams.price,
+                    child: const Text('Sort by Price'),
+                  ),
+                ],
           )
         ],
       ),
-      body: new Center(
+      body: new Container(
+        padding: const EdgeInsets.all(8.0),
         child: new ListView(
-          children: _coins.map((coin)=> new CoinWidget(coin)).toList(),
+          children: _coins.map((coin) => new CoinWidget(coin)).toList(),
         ),
-      ),  // This trailing comma makes auto-formatting nicer for build methods.
+      ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
 }
 
-class CoinWidget extends StatelessWidget{
+class CoinWidget extends StatelessWidget {
   final Coin _coin;
 
   CoinWidget(this._coin);
 
   @override
-  Widget build(BuildContext context){
+  Widget build(BuildContext context) {
     return new ListTile(
       leading: new CircleAvatar(
-        child: new Text(_coin.rank.toString()),
+        child: new Text(_coin.rank.toString(),
+            style: new TextStyle(
+                fontSize: 16.0,
+                fontWeight: FontWeight.bold,
+                color: Colors.white)),
       ),
-      title: new Text(_coin.name),
-      subtitle: new Text('\$${_coin.fiatRate}'),
+      title: new Text(
+        _coin.name,
+        style: new TextStyle(fontWeight: FontWeight.bold),
+      ),
+      subtitle: new Text('\$${_coin.fiatRate}',
+          style: new TextStyle(
+              fontSize: 12.0, color: Colors.black.withOpacity(0.5))),
     );
   }
 }
