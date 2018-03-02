@@ -12,7 +12,7 @@ class App extends StatelessWidget {
       theme: new ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: new HomePage(title: 'Basic API Usage'),
+      home: new HomePage(title: 'CoinBin API'),
     );
   }
 }
@@ -32,6 +32,8 @@ class _HomePageState extends State<HomePage> {
   var _rawData = <Coin>[];
   var _coins = <Coin>[];
   var _query = SortParams.rank;
+  var _reverseSort = false;
+  var _sortType = 0;
 
   @override
   initState() {
@@ -39,16 +41,10 @@ class _HomePageState extends State<HomePage> {
     listenForCoins();
   }
 
-  compare(a, b) {
-    if (a.rank == b.rank) return 0;
-    return (a.rank < b.rank) ? -1 : 1;
-  }
-
   listenForCoins() async {
     var stream = await getCoins();
     stream.listen((data) {
       _rawData = data;
-      print(_query.toString());
       setState(() {
         _coins = _rawData;
       });
@@ -56,7 +52,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   _filter() {
-    print('Filter list');
+    print(_query);
   }
 
   @override
@@ -71,9 +67,25 @@ class _HomePageState extends State<HomePage> {
               onPressed: _filter),
           new PopupMenuButton<SortParams>(
             onSelected: (SortParams result) {
-              _filter();
+              _coins = _rawData.sublist(0);
               setState(() {
-                _query = result;
+                _sortType = result.index;
+                if (result.index == _sortType){
+                  _reverseSort = !_reverseSort;
+                } else {
+                  _reverseSort = false;
+                }
+                switch (result) {
+                  case SortParams.rank:
+                    _coins.sort((a, b) => _reverseSort ? a.rank.compareTo(b.rank) : b.rank.compareTo(a.rank));
+                    break;
+                  case SortParams.name:
+                    _coins.sort((a, b) =>  _reverseSort ? a.name.compareTo(b.name) : b.name.compareTo(a.name));
+                    break;
+                  case SortParams.price:
+                    _coins.sort((a, b) =>  _reverseSort ? a.fiatRate.compareTo(b.fiatRate) : b.fiatRate.compareTo(a.fiatRate));
+                    break;
+                }
               });
             },
             itemBuilder: (BuildContext context) => <PopupMenuEntry<SortParams>>[
@@ -120,9 +132,9 @@ class CoinWidget extends StatelessWidget {
       ),
       title: new Text(
         _coin.name,
-        style: new TextStyle(fontWeight: FontWeight.bold),
+        style: new TextStyle(fontWeight: FontWeight.bold, height: 1.25),
       ),
-      subtitle: new Text('\$${_coin.fiatRate}',
+      subtitle: new Text('\$${_coin.fiatRate.toString()}',
           style: new TextStyle(
               fontSize: 12.0, color: Colors.black.withOpacity(0.5))),
     );
